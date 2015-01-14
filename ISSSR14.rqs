@@ -1,0 +1,18 @@
+[Project]
+Owner=Unknown
+Name=ISSSR14
+GUID={24C96855-BB70-405F-B39E-504B3C0FDACA}
+CQWebURL=
+isTrackChangesAllowed=1
+Description=
+Owner Key=17
+Revision number=1.0001
+Prefix=
+NbrRequirements=9
+Directory=C:\Program Files\IBM\RationalSDLC\RequisitePro\Projects\ISSSR14\ISSSR14.rqs
+Key=1
+
+[Application]
+Data file version=1.0041
+Program Version=9.1300.0.1
+
