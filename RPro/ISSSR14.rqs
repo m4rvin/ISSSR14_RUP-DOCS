@@ -1,3 +1,4 @@
+
 [Project]
 Owner=Unknown
 Name=ISSSR14
@@ -11,8 +12,12 @@ Prefix=
 NbrRequirements=9
 Directory=C:\Program Files\IBM\RationalSDLC\RequisitePro\Projects\ISSSR14\ISSSR14.rqs
 Key=1
+Revision=1.0006
 
 [Application]
 Data file version=1.0041
 Program Version=9.1300.0.1
+
+[Rational Architect]
+EclipseElementProxiesPackageName=Proxy elemento Eclipse
 
