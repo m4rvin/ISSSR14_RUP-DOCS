@@ -293,6 +293,7 @@
           </edges>
         </contents>
       </eAnnotations>
+      <packagedElement xmi:type="uml:Class" xmi:id="_coXbBbFCEeSU84TOMDtBiw" name="${boundary}"/>
       <packagedElement xmi:type="uml:Package" xmi:id="_coXasLFCEeSU84TOMDtBiw" name="${functional.area}">
         <eAnnotations xmi:id="_coXasbFCEeSU84TOMDtBiw" source="uml2.diagrams" references="_coXasrFCEeSU84TOMDtBiw">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_coXasrFCEeSU84TOMDtBiw" type="Class" name="${functional.area} Analysis-Level Use Case Realizations">
@@ -409,7 +410,6 @@
           </eAnnotations>
         </ownedBehavior>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_coXbBbFCEeSU84TOMDtBiw" name="${boundary}"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_coXbBrFCEeSU84TOMDtBiw" name="${entity}"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_coXbB7FCEeSU84TOMDtBiw" name="${control}"/>
     </packagedElement>
@@ -505,6 +505,163 @@
         </contents>
       </eAnnotations>
     </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_vhKrkLFCEeSU84TOMDtBiw" name="Measurement scale creation">
+      <eAnnotations xmi:id="_vhKrkbFCEeSU84TOMDtBiw" source="uml2.diagrams" references="_vhKrkrFCEeSU84TOMDtBiw">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_vhKrkrFCEeSU84TOMDtBiw" type="Class" name="Measurement scale creation Analysis-Level Use Case Realizations">
+          <children xmi:type="notation:Shape" xmi:id="_vhKrk7FCEeSU84TOMDtBiw" type="Text" fontHeight="14" description="Measurement scale creation Analysis Level Use-Case Realizations">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_vhKrlLFCEeSU84TOMDtBiw" type="DiagramName"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_vhKrlbFCEeSU84TOMDtBiw" type="Description"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vhKrlrFCEeSU84TOMDtBiw" x="476" y="661"/>
+          </children>
+          <children xmi:type="notation:Shape" xmi:id="_vhKrl7FCEeSU84TOMDtBiw" type="Note" fontName="Courier New" description="TO ADD A USE-CASE REALIZATION FOR THIS FUNCTIONAL AREA:&#xD;&#xA;&#xD;&#xA;1) Using the Project Exporer, CTRL-Drag &quot;${use.case}&quot; from the &quot;Analysis Building Blocks&quot; package to the functional area package that contains this diagram.&#xD;&#xA;&#xD;&#xA;2) Right-click over the new realization, and use Find/Replace to change &quot;${use.case}&quot; to the name of the use-case being realized.&#xD;&#xA;&#xD;&#xA;3) Drag the new realization to this diagram.&#xD;&#xA;&#xD;&#xA;4) (Optional) Drag the corresponding Use Case from the Use-Case Model to this diagram and create a Realization dependency from the realization (Collaboration) to the use-case.  Alternatively, create a separate diagram for the purpose of establishing and depicting the realization dependency.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;(Delete this instructional note once you no longer need it.)" fillColor="13369343" lineColor="51455">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_vhKrmLFCEeSU84TOMDtBiw" type="DiagramName"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_vhKrmbFCEeSU84TOMDtBiw" type="Description"/>
+            <styles xmi:type="notation:TextStyle" xmi:id="_vhKrmrFCEeSU84TOMDtBiw"/>
+            <styles xmi:type="notation:LineTypeStyle" xmi:id="_vhKrm7FCEeSU84TOMDtBiw"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vhKrnLFCEeSU84TOMDtBiw" x="2226" y="2862" width="13334" height="9490"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_73HCoLFEEeSU84TOMDtBiw" element="_pelMILFEEeSU84TOMDtBiw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_73HCorFEEeSU84TOMDtBiw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_73HCo7FEEeSU84TOMDtBiw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_73HCpLFEEeSU84TOMDtBiw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_73HCpbFEEeSU84TOMDtBiw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_73HCprFEEeSU84TOMDtBiw" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_73HCp7FEEeSU84TOMDtBiw" visible="false" type="AttributeCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_73NJQLFEEeSU84TOMDtBiw" type="CollaborationCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_73HCobFEEeSU84TOMDtBiw" x="8184" y="10956"/>
+          </children>
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_BZtvkLFFEeSU84TOMDtBiw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_BZtvkrFFEeSU84TOMDtBiw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_BZtvk7FFEeSU84TOMDtBiw" width="2216" height="1322"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_BZtvlLFFEeSU84TOMDtBiw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_BZtvlbFFEeSU84TOMDtBiw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_BZtvlrFFEeSU84TOMDtBiw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_BZtvl7FFEeSU84TOMDtBiw" visible="false" type="Extension_Points"/>
+            <element xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_62AP8LENEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Use-Case%20Building%20Blocks/Measurement%20scale%20creation/Create%20measurement%20scale?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BZtvkbFFEeSU84TOMDtBiw" x="10824" y="7788"/>
+          </children>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_FrbcYLFFEeSU84TOMDtBiw" element="_Fq87QLFFEeSU84TOMDtBiw" source="_73HCoLFEEeSU84TOMDtBiw" target="_BZtvkLFFEeSU84TOMDtBiw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_FrbcYrFFEeSU84TOMDtBiw" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_FrbcZLFFEeSU84TOMDtBiw" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_FrbcZbFFEeSU84TOMDtBiw" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FrbcY7FFEeSU84TOMDtBiw" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FrbcYbFFEeSU84TOMDtBiw" points="[-7, -18, 91, 205]$[-75, -201, 23, 22]"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Gra5wLFFEeSU84TOMDtBiw" id="(0.4914772727272727,0.9258698940998488)"/>
+          </edges>
+        </contents>
+      </eAnnotations>
+      <packagedElement xmi:type="uml:Package" xmi:id="_vhKrnbFCEeSU84TOMDtBiw" name="Measurement scale creation Analysis Elements">
+        <eAnnotations xmi:id="_vhKrnrFCEeSU84TOMDtBiw" source="uml2.diagrams" references="_vhKrn7FCEeSU84TOMDtBiw">
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_vhKrn7FCEeSU84TOMDtBiw" type="Class" name="Measurement scale creation Analysis Classes">
+            <children xmi:type="notation:Shape" xmi:id="_vhKroLFCEeSU84TOMDtBiw" type="Text" fontHeight="14" description="Measurement scale creation Analysis Elements">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_vhKrobFCEeSU84TOMDtBiw" type="DiagramName"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_vhKrorFCEeSU84TOMDtBiw" type="Description"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vhKro7FCEeSU84TOMDtBiw" x="318" y="318"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_vhKrpLFCEeSU84TOMDtBiw" type="Note" fontName="Courier New" description="TO ADD AN ANALYSIS CLASS:&#xD;&#xA;&#xD;&#xA;1) Using the Project Exporer, CTRL-Drag one of ${boundary}, ${control} or ${entity} from the &quot;Analysis Model Building Blocks&quot; package to this package or a sub-package.&#xD;&#xA;&#xD;&#xA;2) Right-click over the newly copied class, and use Find/Replace to change the name to the desired name.&#xD;&#xA;&#xD;&#xA;TO ADD A SUBPACKAGE&#xD;&#xA;&#xD;&#xA;1) Simply add a package to this diagram, using the tool palette or action bar.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;(Delete this instructional note when you no longer need it.)&#xD;&#xA;&#xD;&#xA;" fillColor="13369343" lineColor="51455">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_vhKrpbFCEeSU84TOMDtBiw" type="DiagramName"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_vhKrprFCEeSU84TOMDtBiw" type="Description"/>
+              <styles xmi:type="notation:TextStyle" xmi:id="_vhKrp7FCEeSU84TOMDtBiw"/>
+              <styles xmi:type="notation:LineTypeStyle" xmi:id="_vhKrqLFCEeSU84TOMDtBiw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vhKrqbFCEeSU84TOMDtBiw" x="2544" y="2226" width="12382" height="7841"/>
+            </children>
+          </contents>
+        </eAnnotations>
+        <packagedElement xmi:type="uml:Class" xmi:id="_e1RZMLFGEeSU84TOMDtBiw" name="CreationPage"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_j3mDkLFGEeSU84TOMDtBiw" name="MeasurementScaleFormController"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_khU9ELFGEeSU84TOMDtBiw" name="MeasurementScale"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_DkmA0LFHEeSU84TOMDtBiw" name="ListView"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_JafdMLFHEeSU84TOMDtBiw" name="Operation"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_ODIcQLFHEeSU84TOMDtBiw" name="MeasurementScaleType"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_RktsoLFHEeSU84TOMDtBiw" name="RangeOfValues"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_pelMILFEEeSU84TOMDtBiw" name="&lt;&lt;Use Case Realization>> Measurement scale creation" clientDependency="_Fq87QLFFEeSU84TOMDtBiw">
+        <eAnnotations xmi:id="_pelMIbFEEeSU84TOMDtBiw" source="http://www.eclipse.org/uml2/2.0.0/UML"/>
+        <eAnnotations xmi:id="_pelMIrFEEeSU84TOMDtBiw" source="uml2.diagrams" references="_pelMI7FEEeSU84TOMDtBiw">
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_pelMI7FEEeSU84TOMDtBiw" type="Class" name="&lt;&lt;Use Case Realization>> Measurement scale creation Realization Overview">
+            <children xmi:type="notation:Shape" xmi:id="_pelMJLFEEeSU84TOMDtBiw" element="_pelMQLFEEeSU84TOMDtBiw">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMJbFEEeSU84TOMDtBiw" type="DiagramName" element="_pelMQLFEEeSU84TOMDtBiw"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMJrFEEeSU84TOMDtBiw" type="Description" element="_pelMQLFEEeSU84TOMDtBiw"/>
+              <styles xmi:type="notation:TextStyle" xmi:id="_pelMJ7FEEeSU84TOMDtBiw"/>
+              <styles xmi:type="notation:LineTypeStyle" xmi:id="_pelMKLFEEeSU84TOMDtBiw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pelMKbFEEeSU84TOMDtBiw" x="2544" y="2226"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_pelMKrFEEeSU84TOMDtBiw" element="_pelMTbFEEeSU84TOMDtBiw">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMK7FEEeSU84TOMDtBiw" type="DiagramName" element="_pelMTbFEEeSU84TOMDtBiw"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMLLFEEeSU84TOMDtBiw" type="Description" element="_pelMTbFEEeSU84TOMDtBiw"/>
+              <styles xmi:type="notation:TextStyle" xmi:id="_pelMLbFEEeSU84TOMDtBiw"/>
+              <styles xmi:type="notation:LineTypeStyle" xmi:id="_pelMLrFEEeSU84TOMDtBiw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pelML7FEEeSU84TOMDtBiw" x="2544" y="3683"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_pelMMLFEEeSU84TOMDtBiw" element="_pelMVbFEEeSU84TOMDtBiw">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMMbFEEeSU84TOMDtBiw" type="DiagramName" element="_pelMVbFEEeSU84TOMDtBiw"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMMrFEEeSU84TOMDtBiw" type="Description" element="_pelMVbFEEeSU84TOMDtBiw"/>
+              <styles xmi:type="notation:TextStyle" xmi:id="_pelMM7FEEeSU84TOMDtBiw"/>
+              <styles xmi:type="notation:LineTypeStyle" xmi:id="_pelMNLFEEeSU84TOMDtBiw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pelMNbFEEeSU84TOMDtBiw" x="2544" y="5088"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_pelMNrFEEeSU84TOMDtBiw" type="Text" fontHeight="14" description="&lt;&lt;Use Case Realization>> Measurement scale creation Realization Overview">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMN7FEEeSU84TOMDtBiw" type="DiagramName"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMOLFEEeSU84TOMDtBiw" type="Description"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pelMObFEEeSU84TOMDtBiw" x="873" y="502"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_pelMOrFEEeSU84TOMDtBiw" type="Note" fontName="Courier New" description="TODO:&#xD;&#xA;1) If the use case has additional named alternate or exceptional flows, add additional Interactions and Sequence diagrams to the Collaboration to depict those flows.&#xD;&#xA;2) Drag the additional diagram(s) onto this diagram&#xD;&#xA;3) Delete this instructional note once you no longer need it" fillColor="13369343" lineColor="51455">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMO7FEEeSU84TOMDtBiw" type="DiagramName"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMPLFEEeSU84TOMDtBiw" type="Description"/>
+              <styles xmi:type="notation:TextStyle" xmi:id="_pelMPbFEEeSU84TOMDtBiw"/>
+              <styles xmi:type="notation:LineTypeStyle" xmi:id="_pelMPrFEEeSU84TOMDtBiw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pelMP7FEEeSU84TOMDtBiw" x="930" y="6360" width="13043" height="3300"/>
+            </children>
+          </contents>
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_pelMQLFEEeSU84TOMDtBiw" type="Class" name="&lt;&lt;Use Case Realization>> Measurement scale creation Participants">
+            <children xmi:type="notation:Shape" xmi:id="_pelMQbFEEeSU84TOMDtBiw" type="Text" fontHeight="14" description="&lt;&lt;Use Case Realization>> Measurement scale creation Participants">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMQrFEEeSU84TOMDtBiw" type="DiagramName"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMQ7FEEeSU84TOMDtBiw" type="Description"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pelMRLFEEeSU84TOMDtBiw" x="476" y="449"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_pelMRbFEEeSU84TOMDtBiw" type="Note" fontName="Courier New" description="TODO:&#xD;&#xA;1) drag the analysis classes that participate in this use-case realization onto this diagram&#xD;&#xA;2) create relationships among them as appropriate&#xD;&#xA;3) delete this instructional note once you no longer need it" fillColor="13369343" lineColor="51455">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMRrFEEeSU84TOMDtBiw" type="DiagramName"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMR7FEEeSU84TOMDtBiw" type="Description"/>
+              <styles xmi:type="notation:TextStyle" xmi:id="_pelMSLFEEeSU84TOMDtBiw"/>
+              <styles xmi:type="notation:LineTypeStyle" xmi:id="_pelMSbFEEeSU84TOMDtBiw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pelMSrFEEeSU84TOMDtBiw" x="636" y="1908" width="10476" height="2887"/>
+            </children>
+          </contents>
+        </eAnnotations>
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_pelMS7FEEeSU84TOMDtBiw" name="&lt;&lt;Use Case Realization>> Measurement scale creation - Basic Flow">
+          <eAnnotations xmi:id="_pelMTLFEEeSU84TOMDtBiw" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_pelMTbFEEeSU84TOMDtBiw" type="Sequence" element="_pelMS7FEEeSU84TOMDtBiw" name="&lt;&lt;Use Case Realization>> Measurement scale creation - Basic Flow" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_pelMTrFEEeSU84TOMDtBiw" element="_pelMS7FEEeSU84TOMDtBiw" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pelMT7FEEeSU84TOMDtBiw" type="interaction_compartment" element="_pelMS7FEEeSU84TOMDtBiw">
+                  <layoutConstraint xmi:type="notation:Ratio" xmi:id="_pelMULFEEeSU84TOMDtBiw"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMUbFEEeSU84TOMDtBiw" type="Name" element="_pelMS7FEEeSU84TOMDtBiw"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pelMUrFEEeSU84TOMDtBiw"/>
+              </children>
+            </contents>
+          </eAnnotations>
+        </ownedBehavior>
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_pelMU7FEEeSU84TOMDtBiw" name="&lt;&lt;Use Case Realization>> Measurement scale creation - Alternative Flow n">
+          <eAnnotations xmi:id="_pelMVLFEEeSU84TOMDtBiw" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_pelMVbFEEeSU84TOMDtBiw" type="Sequence" element="_pelMU7FEEeSU84TOMDtBiw" name="&lt;&lt;Use Case Realization>> Measurement scale creation - Alternative Flow n" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_pelMVrFEEeSU84TOMDtBiw" element="_pelMU7FEEeSU84TOMDtBiw" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pelMV7FEEeSU84TOMDtBiw" type="interaction_compartment" element="_pelMU7FEEeSU84TOMDtBiw">
+                  <layoutConstraint xmi:type="notation:Ratio" xmi:id="_pelMWLFEEeSU84TOMDtBiw"/>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_pelMWbFEEeSU84TOMDtBiw" type="Name" element="_pelMU7FEEeSU84TOMDtBiw"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pelMWrFEEeSU84TOMDtBiw"/>
+              </children>
+            </contents>
+          </eAnnotations>
+        </ownedBehavior>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Realization" xmi:id="_Fq87QLFFEeSU84TOMDtBiw" client="_pelMILFEEeSU84TOMDtBiw">
+        <supplier xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_62AP8LENEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Use-Case%20Building%20Blocks/Measurement%20scale%20creation/Create%20measurement%20scale?"/>
+      </packagedElement>
+    </packagedElement>
     <profileApplication xmi:id="_coXbT7FCEeSU84TOMDtBiw">
       <eAnnotations xmi:id="_coXbULFCEeSU84TOMDtBiw" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
@@ -535,4 +692,11 @@
   <RUPAnalysis:Control xmi:id="_coXbWbFCEeSU84TOMDtBiw" base_Class="_coXbB7FCEeSU84TOMDtBiw"/>
   <Default:Perspective xmi:id="_coXbWrFCEeSU84TOMDtBiw" base_Package="_coXbCLFCEeSU84TOMDtBiw"/>
   <Standard:ModelLibrary xmi:id="_coXbW7FCEeSU84TOMDtBiw" base_Package="_coXaM7FCEeSU84TOMDtBiw"/>
+  <RUPAnalysis:Boundary xmi:id="_e1RZMbFGEeSU84TOMDtBiw" base_Class="_e1RZMLFGEeSU84TOMDtBiw"/>
+  <RUPAnalysis:Control xmi:id="_j3mDkbFGEeSU84TOMDtBiw" base_Class="_j3mDkLFGEeSU84TOMDtBiw"/>
+  <RUPAnalysis:Entity xmi:id="_khU9EbFGEeSU84TOMDtBiw" base_Class="_khU9ELFGEeSU84TOMDtBiw"/>
+  <RUPAnalysis:Boundary xmi:id="_DkmA0bFHEeSU84TOMDtBiw" base_Class="_DkmA0LFHEeSU84TOMDtBiw"/>
+  <RUPAnalysis:Entity xmi:id="_JafdMbFHEeSU84TOMDtBiw" base_Class="_JafdMLFHEeSU84TOMDtBiw"/>
+  <RUPAnalysis:Entity xmi:id="_ODIcQbFHEeSU84TOMDtBiw" base_Class="_ODIcQLFHEeSU84TOMDtBiw"/>
+  <RUPAnalysis:Entity xmi:id="_RktsobFHEeSU84TOMDtBiw" base_Class="_RktsoLFHEeSU84TOMDtBiw"/>
 </xmi:XMI>
