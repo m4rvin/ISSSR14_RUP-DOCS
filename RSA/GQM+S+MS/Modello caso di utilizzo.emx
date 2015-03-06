@@ -754,6 +754,11 @@
             <group xmi:type="uml:ActivityPartition" xmi:id="_7lfVsLEZEeSwq8jQ1QgyDQ" name="System" node="_e8gK8LE4EeSU84TOMDtBiw _XumLELE-EeSU84TOMDtBiw _CgcgYLFAEeSU84TOMDtBiw _j3Q7ILFAEeSU84TOMDtBiw _P8N3IMQGEeSkjv3y9JtmKQ _eIV-oMQGEeSkjv3y9JtmKQ _SFn6CMQOEeSO-dT1VZFQQw" edge="_MumlMLE6EeSU84TOMDtBiw _QjPFsLFAEeSU84TOMDtBiw _U1V0ELFAEeSU84TOMDtBiw _eVCBoLFAEeSU84TOMDtBiw _nHv0cLFAEeSU84TOMDtBiw _oMUP0LFAEeSU84TOMDtBiw _eIiL4MQGEeSkjv3y9JtmKQ _j3vxcMQGEeSkjv3y9JtmKQ _fjXRgMQOEeSO-dT1VZFQQw"/>
           </ownedBehavior>
         </packagedElement>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_JcElEMQgEeSWDpV3P7PEJw" name="Create range of values">
+          <ownedComment xmi:id="_JfnBQMQgEeSWDpV3P7PEJw" annotatedElement="_JcElEMQgEeSWDpV3P7PEJw">
+            <body>This use case represents the creation process for a new range of values by any user logged in the system. The user chooses the range of values parameters and submits the request to the system. The system validatea the fields and processes the request.</body>
+          </ownedComment>
+        </packagedElement>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_smyZHLENEeSD2c69K_B9WQ" name="${functional.area}">
         <eAnnotations xmi:id="_smyZHbENEeSD2c69K_B9WQ" source="uml2.diagrams" references="_smyZHrENEeSD2c69K_B9WQ">
@@ -941,4 +946,5 @@
   </uml:Model>
   <Default:Perspective xmi:id="_smyZb7ENEeSD2c69K_B9WQ" base_Package="_smyZPrENEeSD2c69K_B9WQ"/>
   <Default:Documentation xmi:id="_62k3sLENEeSD2c69K_B9WQ" base_Comment="_62Sj0LENEeSD2c69K_B9WQ"/>
+  <Default:Documentation xmi:id="_JfzOgMQgEeSWDpV3P7PEJw" base_Comment="_JfnBQMQgEeSWDpV3P7PEJw"/>
 </xmi:XMI>
