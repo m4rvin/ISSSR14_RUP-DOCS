@@ -5167,10 +5167,10 @@
           </ownedEnd>
         </packagedElement>
       </packagedElement>
-      <packagedElement xmi:type="uml:Collaboration" xmi:id="_2ETTIMmFEeSMaY3L4pMYmA" name="Create metric satisfying condition">
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_2ETTIMmFEeSMaY3L4pMYmA" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition">
         <eAnnotations xmi:id="_2ETTIcmFEeSMaY3L4pMYmA" source="http://www.eclipse.org/uml2/2.0.0/UML"/>
         <eAnnotations xmi:id="_2ETTIsmFEeSMaY3L4pMYmA" source="uml2.diagrams" references="_2ETTI8mFEeSMaY3L4pMYmA">
-          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTI8mFEeSMaY3L4pMYmA" type="Class" name="Create metric satisfying condition Realization Overview">
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTI8mFEeSMaY3L4pMYmA" type="Class" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition Realization Overview">
             <children xmi:type="notation:Shape" xmi:id="_2ETTJMmFEeSMaY3L4pMYmA" element="_2ETTQMmFEeSMaY3L4pMYmA">
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ETTJcmFEeSMaY3L4pMYmA" type="DiagramName" element="_2ETTQMmFEeSMaY3L4pMYmA"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ETTJsmFEeSMaY3L4pMYmA" type="Description" element="_2ETTQMmFEeSMaY3L4pMYmA"/>
@@ -5205,7 +5205,7 @@
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2ETTP8mFEeSMaY3L4pMYmA" x="930" y="6360" width="13043" height="3300"/>
             </children>
           </contents>
-          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTQMmFEeSMaY3L4pMYmA" type="Class" name="Create metric satisfying condition Participants">
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTQMmFEeSMaY3L4pMYmA" type="Class" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition Participants">
             <children xmi:type="notation:Shape" xmi:id="_2ETTQcmFEeSMaY3L4pMYmA" type="Text" fontHeight="14" description="Create metric satisfying condition Participants">
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ETTQsmFEeSMaY3L4pMYmA" type="DiagramName"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ETTQ8mFEeSMaY3L4pMYmA" type="Description"/>
@@ -5332,9 +5332,9 @@
             </edges>
           </contents>
         </eAnnotations>
-        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_2ETTS8mFEeSMaY3L4pMYmA" name="Create metric satisfying condition - Basic Flow">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_2ETTS8mFEeSMaY3L4pMYmA" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition - Basic Flow">
           <eAnnotations xmi:id="_2ETTTMmFEeSMaY3L4pMYmA" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTTcmFEeSMaY3L4pMYmA" type="Sequence" element="_2ETTS8mFEeSMaY3L4pMYmA" name="Create metric satisfying condition - Basic Flow" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTTcmFEeSMaY3L4pMYmA" type="Sequence" element="_2ETTS8mFEeSMaY3L4pMYmA" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition - Basic Flow" measurementUnit="Himetric">
               <children xmi:type="umlnotation:UMLShape" xmi:id="_2ETTTsmFEeSMaY3L4pMYmA" element="_2ETTS8mFEeSMaY3L4pMYmA" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_2ETTT8mFEeSMaY3L4pMYmA" type="interaction_compartment" element="_2ETTS8mFEeSMaY3L4pMYmA">
                   <children xmi:type="umlnotation:UMLShape" xmi:id="_HCZhEMmIEeSMaY3L4pMYmA" element="_HCAfgMmIEeSMaY3L4pMYmA" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
@@ -5762,11 +5762,56 @@
           <message xmi:id="_NO278MmLEeSMaY3L4pMYmA" name="save" receiveEvent="_NO278smLEeSMaY3L4pMYmA" sendEvent="_NO278cmLEeSMaY3L4pMYmA" connector="_Hv-G1MmKEeSMaY3L4pMYmA"/>
           <message xmi:id="_NO279cmLEeSMaY3L4pMYmA" name="save" messageSort="reply" receiveEvent="_NO279smLEeSMaY3L4pMYmA" sendEvent="_NO279MmLEeSMaY3L4pMYmA" connector="_Hv-G1MmKEeSMaY3L4pMYmA"/>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_2ETTU8mFEeSMaY3L4pMYmA" name="Create metric satisfying condition - Alternative Flow n">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_2ETTU8mFEeSMaY3L4pMYmA" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition - Alternative Flow 1">
           <eAnnotations xmi:id="_2ETTVMmFEeSMaY3L4pMYmA" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTVcmFEeSMaY3L4pMYmA" type="Sequence" element="_2ETTU8mFEeSMaY3L4pMYmA" name="Create metric satisfying condition - Alternative Flow n" measurementUnit="Himetric">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTVcmFEeSMaY3L4pMYmA" type="Sequence" element="_2ETTU8mFEeSMaY3L4pMYmA" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition - Alternative Flow 1" measurementUnit="Himetric">
               <children xmi:type="umlnotation:UMLShape" xmi:id="_2ETTVsmFEeSMaY3L4pMYmA" element="_2ETTU8mFEeSMaY3L4pMYmA" showStereotype="Label">
                 <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_2ETTV8mFEeSMaY3L4pMYmA" type="interaction_compartment" element="_2ETTU8mFEeSMaY3L4pMYmA">
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_s6Nc8cmXEeSOqYzdN4Mitw" element="_s6HWUMmXEeSOqYzdN4Mitw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_s6TjkMmXEeSOqYzdN4Mitw" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_s6TjkcmXEeSOqYzdN4Mitw" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_s6TjksmXEeSOqYzdN4Mitw" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_s6Tjk8mXEeSOqYzdN4Mitw" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_s6TjlMmXEeSOqYzdN4Mitw" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s6Nc8smXEeSOqYzdN4Mitw" x="476" y="53" width="2486" height="9525"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_1kPN0smXEeSOqYzdN4Mitw" element="_1kPN0MmXEeSOqYzdN4Mitw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_1kPN1MmXEeSOqYzdN4Mitw" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_1kPN1cmXEeSOqYzdN4Mitw" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_1kPN1smXEeSOqYzdN4Mitw" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_1kVUcMmXEeSOqYzdN4Mitw" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_1kVUccmXEeSOqYzdN4Mitw" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1kPN08mXEeSOqYzdN4Mitw" x="-2486" y="53" width="8412" height="9525"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_4FEL0MmXEeSOqYzdN4Mitw" element="_4E-FMMmXEeSOqYzdN4Mitw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_4FEL0smXEeSOqYzdN4Mitw" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_4FEL08mXEeSOqYzdN4Mitw" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_4FEL1MmXEeSOqYzdN4Mitw" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_4FEL1cmXEeSOqYzdN4Mitw" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_4FEL1smXEeSOqYzdN4Mitw" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4FEL0cmXEeSOqYzdN4Mitw" x="-11083" y="53" width="11402" height="9525"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_6SshAsmXEeSOqYzdN4Mitw" element="_6SshAMmXEeSOqYzdN4Mitw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_6SshBMmXEeSOqYzdN4Mitw" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_6SshBcmXEeSOqYzdN4Mitw" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6SshBsmXEeSOqYzdN4Mitw" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6SshB8mXEeSOqYzdN4Mitw" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_6SshCMmXEeSOqYzdN4Mitw" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6SshA8mXEeSOqYzdN4Mitw" x="-22670" y="53" width="7275" height="9525"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_7pIIccmXEeSOqYzdN4Mitw" element="_7pCB0MmXEeSOqYzdN4Mitw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_7pIIc8mXEeSOqYzdN4Mitw" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_7pIIdMmXEeSOqYzdN4Mitw" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_7pIIdcmXEeSOqYzdN4Mitw" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_7pOPEMmXEeSOqYzdN4Mitw" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_7pOPEcmXEeSOqYzdN4Mitw" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7pIIcsmXEeSOqYzdN4Mitw" x="-30130" y="53" width="3967" height="9525"/>
+                  </children>
                   <layoutConstraint xmi:type="notation:Ratio" xmi:id="_2ETTWMmFEeSMaY3L4pMYmA"/>
                 </children>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ETTWcmFEeSMaY3L4pMYmA" type="Name" element="_2ETTU8mFEeSMaY3L4pMYmA"/>
@@ -5774,6 +5819,11 @@
               </children>
             </contents>
           </eAnnotations>
+          <lifeline xmi:id="_s6HWUMmXEeSOqYzdN4Mitw" name="user" represents="_HCAfgcmIEeSMaY3L4pMYmA"/>
+          <lifeline xmi:id="_1kPN0MmXEeSOqYzdN4Mitw" name="satisfyingConditionView" represents="_1kPN0cmXEeSOqYzdN4Mitw"/>
+          <lifeline xmi:id="_4E-FMMmXEeSOqYzdN4Mitw" name="satisfyingConditionFormController" represents="_4E-FMcmXEeSOqYzdN4Mitw"/>
+          <lifeline xmi:id="_6SshAMmXEeSOqYzdN4Mitw" name="satisfyingCondition" represents="_6SshAcmXEeSOqYzdN4Mitw"/>
+          <lifeline xmi:id="_7pCB0MmXEeSOqYzdN4Mitw" name="metric" represents="_7pIIcMmXEeSOqYzdN4Mitw"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_HCAfgcmIEeSMaY3L4pMYmA" name="user">
           <type xmi:type="uml:Actor" href="Modello%20caso%20di%20utilizzo.emx#_hZdusLEOEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Versatile%20Actors/User?"/>
@@ -5782,6 +5832,13 @@
         <ownedAttribute xmi:id="_JDCjIcmIEeSMaY3L4pMYmA" name="satisfyingConditionFormController" type="_RBz34cmFEeSMaY3L4pMYmA"/>
         <ownedAttribute xmi:id="_LY_G0cmIEeSMaY3L4pMYmA" name="satisfyingCondition" type="_RBz34MmFEeSMaY3L4pMYmA"/>
         <ownedAttribute xmi:id="_MmuFQcmIEeSMaY3L4pMYmA" name="metric" type="_kfD6wMmFEeSMaY3L4pMYmA"/>
+        <ownedAttribute xmi:id="_s6Nc8MmXEeSOqYzdN4Mitw" name="user2">
+          <type xmi:type="uml:Actor" href="Modello%20caso%20di%20utilizzo.emx#_hZdusLEOEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Versatile%20Actors/User?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_1kPN0cmXEeSOqYzdN4Mitw" name="satisfyingConditionView2" type="_RBz34smFEeSMaY3L4pMYmA"/>
+        <ownedAttribute xmi:id="_4E-FMcmXEeSOqYzdN4Mitw" name="satisfyingConditionFormController2" type="_RBz34cmFEeSMaY3L4pMYmA"/>
+        <ownedAttribute xmi:id="_6SshAcmXEeSOqYzdN4Mitw" name="satisfyingCondition2" type="_RBz34MmFEeSMaY3L4pMYmA"/>
+        <ownedAttribute xmi:id="_7pIIcMmXEeSOqYzdN4Mitw" name="metric2" type="_kfD6wMmFEeSMaY3L4pMYmA"/>
       </packagedElement>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_0p-i0MmIEeSMaY3L4pMYmA" name="Eventodioperazionediinvio1" operation="_0pyVkMmIEeSMaY3L4pMYmA"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_0p-i0cmIEeSMaY3L4pMYmA" name="Eventodioperazionediricezione1" operation="_0pyVkMmIEeSMaY3L4pMYmA"/>
