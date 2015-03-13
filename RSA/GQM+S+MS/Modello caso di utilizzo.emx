@@ -268,7 +268,7 @@
       </eAnnotations>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_62AP8LENEeSD2c69K_B9WQ" name="Create measurement scale">
         <ownedComment xmi:id="_62Sj0LENEeSD2c69K_B9WQ" annotatedElement="_62AP8LENEeSD2c69K_B9WQ">
-          <body>This use case represents the creation process for a new measurement scale by any user logged in the system. The user chooses the measurement scale parameters and submits the request to the system. The system checks that all the fields have been filled and processes the request.</body>
+          <body>This use case represents the creation process for a new measurement scale by any user logged in the system. The user chooses the measurement scale parameters and submits the request to the system. The system checks that all the data have been filled and processes the request.</body>
         </ownedComment>
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_4CeRALEQEeSD2c69K_B9WQ" name="Create measurement scale Activity" partition="_5EFv8LEZEeSwq8jQ1QgyDQ _7lfVsLEZEeSwq8jQ1QgyDQ">
           <eAnnotations xmi:id="_4CkXoLEQEeSD2c69K_B9WQ" source="uml2.diagrams">
@@ -2968,7 +2968,7 @@
           </eAnnotations>
           <node xmi:type="uml:InitialNode" xmi:id="_jbiPEMgCEeS6IKs9U5DFBA" outgoing="_oNuLsMgCEeS6IKs9U5DFBA"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_oNh-cMgCEeS6IKs9U5DFBA" name="Select &quot;Add measurement&quot;" outgoing="_sWjpUMgCEeS6IKs9U5DFBA" incoming="_oNuLsMgCEeS6IKs9U5DFBA" inPartition="_PZ-iEMf-EeS6IKs9U5DFBA"/>
-          <node xmi:type="uml:OpaqueAction" xmi:id="_sWXcEMgCEeS6IKs9U5DFBA" name="Display the measurement instertion page with blank fields" outgoing="_2wyzkMgCEeS6IKs9U5DFBA" incoming="_sWjpUMgCEeS6IKs9U5DFBA" inPartition="_RJ0IAMf-EeS6IKs9U5DFBA"/>
+          <node xmi:type="uml:OpaqueAction" xmi:id="_sWXcEMgCEeS6IKs9U5DFBA" name="Display the measurement insetertion page with blank fields" outgoing="_2wyzkMgCEeS6IKs9U5DFBA" incoming="_sWjpUMgCEeS6IKs9U5DFBA" inPartition="_RJ0IAMf-EeS6IKs9U5DFBA"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_2wmmUMgCEeS6IKs9U5DFBA" name="Select a metric" outgoing="_SIin0MgDEeS6IKs9U5DFBA" incoming="_2wyzkMgCEeS6IKs9U5DFBA _E4TukMgIEeSOCYGgp5S2Ug" inPartition="_PZ-iEMf-EeS6IKs9U5DFBA"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_8k-YsMgCEeS6IKs9U5DFBA" name="Select the data collection date" outgoing="_IBgGYMgDEeS6IKs9U5DFBA" incoming="_f0mvMMgDEeS6IKs9U5DFBA _wOfuwMgDEeS6IKs9U5DFBA _A18-UMgGEeSOCYGgp5S2Ug" inPartition="_PZ-iEMf-EeS6IKs9U5DFBA"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_IBT5IMgDEeS6IKs9U5DFBA" name="Select the data collection time" outgoing="_FclyQMgGEeSOCYGgp5S2Ug" incoming="_IBgGYMgDEeS6IKs9U5DFBA" inPartition="_PZ-iEMf-EeS6IKs9U5DFBA"/>
@@ -3191,6 +3191,91 @@
         </ownedEnd>
       </packagedElement>
     </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_2wEmQMmAEeSFePuFBMVWxw" name="Interpretation model">
+      <eAnnotations xmi:id="_2wEmQcmAEeSFePuFBMVWxw" source="uml2.diagrams" references="_2wEmQsmAEeSFePuFBMVWxw">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2wEmQsmAEeSFePuFBMVWxw" type="Usecase" name="Interpretation model Use Cases">
+          <children xmi:type="notation:Shape" xmi:id="_2wEmQ8mAEeSFePuFBMVWxw" type="Text" fontHeight="14" description="Interpretation model Use Cases">
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_2wEmRMmAEeSFePuFBMVWxw" type="DiagramName"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_2wEmRcmAEeSFePuFBMVWxw" type="Description"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2wEmRsmAEeSFePuFBMVWxw" x="954" y="636"/>
+          </children>
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_PtMyMMmBEeSFePuFBMVWxw" element="_hZdusLEOEeSD2c69K_B9WQ" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_PuWBsMmBEeSFePuFBMVWxw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_PuWBscmBEeSFePuFBMVWxw" width="1455" height="2381"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_PuWBssmBEeSFePuFBMVWxw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_PuWBs8mBEeSFePuFBMVWxw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_PuWBtMmBEeSFePuFBMVWxw" type="Parent"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PtMyMcmBEeSFePuFBMVWxw" x="3036" y="5808"/>
+          </children>
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_QpLSQMmBEeSFePuFBMVWxw" element="_J339kMmBEeSFePuFBMVWxw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_QpLSQsmBEeSFePuFBMVWxw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_QpLSQ8mBEeSFePuFBMVWxw" width="2216" height="1322"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_QpLSRMmBEeSFePuFBMVWxw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_QpLSRcmBEeSFePuFBMVWxw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_QpLSRsmBEeSFePuFBMVWxw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_QpLSR8mBEeSFePuFBMVWxw" visible="false" type="Extension_Points"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QpLSQcmBEeSFePuFBMVWxw" x="10164" y="6204"/>
+          </children>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_SeRLoMmBEeSFePuFBMVWxw" element="_Sc7H0MmBEeSFePuFBMVWxw" source="_QpLSQMmBEeSFePuFBMVWxw" target="_PtMyMMmBEeSFePuFBMVWxw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_SeRLosmBEeSFePuFBMVWxw" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_SeXSQMmBEeSFePuFBMVWxw" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_SfmoYMmBEeSFePuFBMVWxw" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_SeRLo8mBEeSFePuFBMVWxw" y="-186"/>
+            </children>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Sfy1oMmBEeSFePuFBMVWxw" visible="false" type="ToMultiplicityLabel" element="_Sdl2MMmBEeSFePuFBMVWxw">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_Sfy1osmBEeSFePuFBMVWxw" type="ToMultiplicity"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Sfy1ocmBEeSFePuFBMVWxw" y="396"/>
+            </children>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Sfy1o8mBEeSFePuFBMVWxw" visible="false" type="ToRoleLabel" element="_Sdl2MMmBEeSFePuFBMVWxw">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_Sfy1pcmBEeSFePuFBMVWxw" type="ToRole"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Sfy1pMmBEeSFePuFBMVWxw" y="-397"/>
+            </children>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Sfy1psmBEeSFePuFBMVWxw" visible="false" type="FromMultiplicityLabel" element="_SdTiUMmBEeSFePuFBMVWxw">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_Sf48QMmBEeSFePuFBMVWxw" type="FromMultiplicity"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Sfy1p8mBEeSFePuFBMVWxw" y="396"/>
+            </children>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Sf48QcmBEeSFePuFBMVWxw" visible="false" type="FromRoleLabel" element="_SdTiUMmBEeSFePuFBMVWxw">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_Sf48Q8mBEeSFePuFBMVWxw" type="FromRole"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Sf48QsmBEeSFePuFBMVWxw" y="-397"/>
+            </children>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Sf48RMmBEeSFePuFBMVWxw" type="ToQualifierLabel" element="_Sdl2MMmBEeSFePuFBMVWxw">
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_Sf48RsmBEeSFePuFBMVWxw" type="QualifierCompartment"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Sf48RcmBEeSFePuFBMVWxw" y="-186"/>
+            </children>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Sf48R8mBEeSFePuFBMVWxw" type="FromQualifierLabel" element="_SdTiUMmBEeSFePuFBMVWxw">
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_Sf48ScmBEeSFePuFBMVWxw" type="QualifierCompartment"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Sf48SMmBEeSFePuFBMVWxw" y="-186"/>
+            </children>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Sf48SsmBEeSFePuFBMVWxw" type="ToConstraintLabel" element="_Sdl2MMmBEeSFePuFBMVWxw">
+              <children xmi:type="notation:ListCompartment" xmi:id="_Sf48TMmBEeSFePuFBMVWxw" type="ToConstraintCompartment"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Sf48S8mBEeSFePuFBMVWxw" y="1058"/>
+            </children>
+            <children xmi:type="notation:DecorationNode" xmi:id="_Sf48TcmBEeSFePuFBMVWxw" type="FromConstraintLabel" element="_SdTiUMmBEeSFePuFBMVWxw">
+              <children xmi:type="notation:ListCompartment" xmi:id="_Sf48T8mBEeSFePuFBMVWxw" type="FromConstraintCompartment"/>
+              <layoutConstraint xmi:type="notation:Location" xmi:id="_Sf48TsmBEeSFePuFBMVWxw" y="1058"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_SeRLocmBEeSFePuFBMVWxw" points="[-106, -7, 242, 22]$[-342, -56, 6, -27]"/>
+          </edges>
+        </contents>
+      </eAnnotations>
+      <packagedElement xmi:type="uml:UseCase" xmi:id="_J339kMmBEeSFePuFBMVWxw" name="Create metric satisfying condition">
+        <ownedComment xmi:id="_J4QYEMmBEeSFePuFBMVWxw" annotatedElement="_J339kMmBEeSFePuFBMVWxw">
+          <body>This use case represents the process of creation of a satisfying condition associated to a metric (so, to one or more questions related to one or more goals).</body>
+        </ownedComment>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_Sc7H0MmBEeSFePuFBMVWxw" memberEnd="_SdTiUMmBEeSFePuFBMVWxw _Sdl2MMmBEeSFePuFBMVWxw" navigableOwnedEnd="_SdTiUMmBEeSFePuFBMVWxw _Sdl2MMmBEeSFePuFBMVWxw">
+        <ownedEnd xmi:id="_SdTiUMmBEeSFePuFBMVWxw" name="user" visibility="private" type="_hZdusLEOEeSD2c69K_B9WQ" association="_Sc7H0MmBEeSFePuFBMVWxw">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_SdfvkcmBEeSFePuFBMVWxw" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_SdfvkMmBEeSFePuFBMVWxw" value="1"/>
+        </ownedEnd>
+        <ownedEnd xmi:id="_Sdl2MMmBEeSFePuFBMVWxw" name="create metric satisfying condition" visibility="private" type="_J339kMmBEeSFePuFBMVWxw" association="_Sc7H0MmBEeSFePuFBMVWxw">
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Sdl2MsmBEeSFePuFBMVWxw" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Sdl2McmBEeSFePuFBMVWxw" value="1"/>
+        </ownedEnd>
+      </packagedElement>
+    </packagedElement>
     <profileApplication xmi:id="_smyZabENEeSD2c69K_B9WQ">
       <eAnnotations xmi:id="_smyZarENEeSD2c69K_B9WQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
         <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
@@ -3215,4 +3300,5 @@
   <Default:Documentation xmi:id="_JfzOgMQgEeSWDpV3P7PEJw" base_Comment="_JfnBQMQgEeSWDpV3P7PEJw"/>
   <Default:Documentation xmi:id="_5BDuMcfPEeSEVcugHujEwA" base_Comment="_5BDuMMfPEeSEVcugHujEwA"/>
   <Default:Documentation xmi:id="_1DvqoMf8EeS6IKs9U5DFBA" base_Comment="_1DjdYMf8EeS6IKs9U5DFBA"/>
+  <Default:Documentation xmi:id="_J4WesMmBEeSFePuFBMVWxw" base_Comment="_J4QYEMmBEeSFePuFBMVWxw"/>
 </xmi:XMI>
