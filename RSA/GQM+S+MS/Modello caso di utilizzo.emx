@@ -2035,11 +2035,11 @@
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kiUGOMy-EeSQo_oTUB0iSA" x="17837" y="4437" width="7117"/>
                       </children>
                     </children>
-                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ddZOwcy6EeSQo_oTUB0iSA" x="18278" y="396" width="25079"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ddZOwcy6EeSQo_oTUB0iSA" x="18278" y="396" width="26296"/>
                   </children>
                 </children>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_xk7o9MyzEeSQo_oTUB0iSA" type="Name"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xk7o9cyzEeSQo_oTUB0iSA" x="793" y="793" width="22431" height="25945"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xk7o9cyzEeSQo_oTUB0iSA" x="793" y="793" width="44465" height="25945"/>
               </children>
               <styles xmi:type="notation:BooleanValueStyle" xmi:id="_xk7o9syzEeSQo_oTUB0iSA" name="support_hide_pins"/>
               <edges xmi:type="umlnotation:UMLConnector" xmi:id="_ieS80My6EeSQo_oTUB0iSA" element="_ieGvkMy6EeSQo_oTUB0iSA" source="_hnMVscy6EeSQo_oTUB0iSA" target="_ieAo8My6EeSQo_oTUB0iSA" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
