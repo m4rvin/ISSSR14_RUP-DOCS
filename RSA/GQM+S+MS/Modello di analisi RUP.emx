@@ -7394,7 +7394,7 @@
           <message xmi:id="_2JHKkMmZEeSOqYzdN4Mitw" name="updateFormPage" messageSort="asynchCall" receiveEvent="_2JHKksmZEeSOqYzdN4Mitw" sendEvent="_2JHKkcmZEeSOqYzdN4Mitw" connector="_2JHKlcmZEeSOqYzdN4Mitw"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_HCAfgcmIEeSMaY3L4pMYmA" name="user">
-          <type xmi:type="uml:Actor" href="Modello%20caso%20di%20utilizzo.emx#_hZdusLEOEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Versatile%20Actors/User?"/>
+          <type xmi:type="uml:Actor" href="Modello%20caso%20di%20utilizzo.emx#_eTrCcLEOEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Versatile%20Actors/MMDM?"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_IBniYcmIEeSMaY3L4pMYmA" name="satisfyingConditionView" type="_RBz34smFEeSMaY3L4pMYmA"/>
         <ownedAttribute xmi:id="_JDCjIcmIEeSMaY3L4pMYmA" name="satisfyingConditionFormController" type="_RBz34cmFEeSMaY3L4pMYmA"/>
@@ -8082,27 +8082,14 @@
           <message xmi:id="_09ElAM1ZEeSgea4ur67y-g" name="suggestToDeleteAndAvoidUpdate" receiveEvent="_09ElAs1ZEeSgea4ur67y-g" sendEvent="_09ElAc1ZEeSgea4ur67y-g" connector="_ucqbZ8z-EeSGspkaoW5WkA"/>
           <message xmi:id="_09Nu8s1ZEeSgea4ur67y-g" name="suggestToDeleteAndAvoidUpdate" messageSort="reply" receiveEvent="_09Nu881ZEeSgea4ur67y-g" sendEvent="_09Nu8c1ZEeSgea4ur67y-g" connector="_ucqbZ8z-EeSGspkaoW5WkA"/>
         </ownedBehavior>
-        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_C1sjUMz6EeSGspkaoW5WkA" name="Copia_1_&lt;&lt;Use Case Realization>> Metric satisfying condition editing - Alternative Flow n">
-          <eAnnotations xmi:id="_C1sjUcz6EeSGspkaoW5WkA" source="uml2.diagrams">
-            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_C1sjUsz6EeSGspkaoW5WkA" type="Sequence" element="_C1sjUMz6EeSGspkaoW5WkA" name="&lt;&lt;Use Case Realization>> Metric satisfying condition editing - Alternative Flow n" measurementUnit="Himetric">
-              <children xmi:type="umlnotation:UMLShape" xmi:id="_C1sjU8z6EeSGspkaoW5WkA" element="_C1sjUMz6EeSGspkaoW5WkA" showStereotype="Label">
-                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_C1sjVMz6EeSGspkaoW5WkA" type="interaction_compartment" element="_C1sjUMz6EeSGspkaoW5WkA">
-                  <layoutConstraint xmi:type="notation:Ratio" xmi:id="_C1sjVcz6EeSGspkaoW5WkA"/>
-                </children>
-                <children xmi:type="notation:BasicDecorationNode" xmi:id="_C1sjVsz6EeSGspkaoW5WkA" type="Name" element="_C1sjUMz6EeSGspkaoW5WkA"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_C1sjV8z6EeSGspkaoW5WkA"/>
-              </children>
-            </contents>
-          </eAnnotations>
-        </ownedBehavior>
         <ownedAttribute xmi:id="_WryrYcz3EeST1utdWN6OXw" name="user">
-          <type xmi:type="uml:Actor" href="Modello%20caso%20di%20utilizzo.emx#_hZdusLEOEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Versatile%20Actors/User?"/>
+          <type xmi:type="uml:Actor" href="Modello%20caso%20di%20utilizzo.emx#_eTrCcLEOEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Versatile%20Actors/MMDM?"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_ZcX8ocz3EeST1utdWN6OXw" name="satisfyingConditionView" type="_RBz34smFEeSMaY3L4pMYmA"/>
         <ownedAttribute xmi:id="_Z_PZIcz3EeST1utdWN6OXw" name="satisfyingConditionFormController" type="_RBz34cmFEeSMaY3L4pMYmA"/>
         <ownedAttribute xmi:id="_a_UWEcz3EeST1utdWN6OXw" name="satisfyingCondition" type="_RBz34MmFEeSMaY3L4pMYmA"/>
         <ownedAttribute xmi:id="_JKosIcz6EeSGspkaoW5WkA" name="user2">
-          <type xmi:type="uml:Actor" href="Modello%20caso%20di%20utilizzo.emx#_hZdusLEOEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Versatile%20Actors/User?"/>
+          <type xmi:type="uml:Actor" href="Modello%20caso%20di%20utilizzo.emx#_eTrCcLEOEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Versatile%20Actors/MMDM?"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_MSnwwMz6EeSGspkaoW5WkA" name="satisfyingConditionView2" type="_RBz34smFEeSMaY3L4pMYmA"/>
         <ownedAttribute xmi:id="_M2ujYcz6EeSGspkaoW5WkA" name="satisfyingConditionFormController2" type="_RBz34cmFEeSMaY3L4pMYmA"/>
