@@ -5347,16 +5347,6 @@
                         <children xmi:type="notation:BasicDecorationNode" xmi:id="_XEph18o6EeSH_OLeD9Y8rQ" type="Parent"/>
                         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XEph0co6EeSH_OLeD9Y8rQ" x="5095" y="15261"/>
                       </children>
-                      <children xmi:type="umlnotation:UMLShape" xmi:id="_gh3qMco6EeSH_OLeD9Y8rQ" element="_gh3qMMo6EeSH_OLeD9Y8rQ" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-                        <children xmi:type="notation:DecorationNode" xmi:id="_gh3qM8o6EeSH_OLeD9Y8rQ" type="ImageCompartment">
-                          <layoutConstraint xmi:type="notation:Size" xmi:id="_gh3qNMo6EeSH_OLeD9Y8rQ" width="1320" height="1320"/>
-                        </children>
-                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_gh3qNco6EeSH_OLeD9Y8rQ" type="Stereotype"/>
-                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_gh3qNso6EeSH_OLeD9Y8rQ" type="InPartitions"/>
-                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_gh3qN8o6EeSH_OLeD9Y8rQ" type="Name"/>
-                        <children xmi:type="notation:BasicDecorationNode" xmi:id="_gh3qOMo6EeSH_OLeD9Y8rQ" type="Parent"/>
-                        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gh3qMso6EeSH_OLeD9Y8rQ" x="4699" y="17769"/>
-                      </children>
                       <children xmi:type="umlnotation:UMLShape" xmi:id="_mh4r4co6EeSH_OLeD9Y8rQ" element="_mh4r4Mo6EeSH_OLeD9Y8rQ" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
                         <children xmi:type="notation:DecorationNode" xmi:id="_mh4r48o6EeSH_OLeD9Y8rQ" type="ImageCompartment">
                           <layoutConstraint xmi:type="notation:Size" xmi:id="_mh4r5Mo6EeSH_OLeD9Y8rQ" width="1320" height="1320"/>
@@ -5596,22 +5586,6 @@
                 </children>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XE1vEco6EeSH_OLeD9Y8rQ" points="[-54, -36, 1039, 709]$[-1088, -741, 5, 4]"/>
               </edges>
-              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_giQEsMo6EeSH_OLeD9Y8rQ" element="_giD3cMo6EeSH_OLeD9Y8rQ" source="_XEph0Mo6EeSH_OLeD9Y8rQ" target="_gh3qMco6EeSH_OLeD9Y8rQ" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-                <children xmi:type="notation:DecorationNode" xmi:id="_giQEsso6EeSH_OLeD9Y8rQ" type="ActivityEdgeLabelCompartment">
-                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_giQEtMo6EeSH_OLeD9Y8rQ" type="Stereotype"/>
-                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_giQEtco6EeSH_OLeD9Y8rQ" type="ActivityEdgeLabel"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_giQEs8o6EeSH_OLeD9Y8rQ" y="-186"/>
-                </children>
-                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_giQEsco6EeSH_OLeD9Y8rQ" points="[-10, -23, 315, 721]$[-323, -737, 2, 7]"/>
-              </edges>
-              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_miE5IMo6EeSH_OLeD9Y8rQ" element="_mh-ygMo6EeSH_OLeD9Y8rQ" source="_gh3qMco6EeSH_OLeD9Y8rQ" target="_mh4r4co6EeSH_OLeD9Y8rQ" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-                <children xmi:type="notation:DecorationNode" xmi:id="_miE5Iso6EeSH_OLeD9Y8rQ" type="ActivityEdgeLabelCompartment">
-                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_miE5JMo6EeSH_OLeD9Y8rQ" type="Stereotype"/>
-                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_miE5Jco6EeSH_OLeD9Y8rQ" type="ActivityEdgeLabel"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_miE5I8o6EeSH_OLeD9Y8rQ" y="-186"/>
-                </children>
-                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_miE5Ico6EeSH_OLeD9Y8rQ" points="[-9, -22, 317, 840]$[-324, -855, 2, 7]"/>
-              </edges>
               <edges xmi:type="umlnotation:UMLConnector" xmi:id="_qI0WU8o6EeSH_OLeD9Y8rQ" element="_qI0WUMo6EeSH_OLeD9Y8rQ" source="_mh4r4co6EeSH_OLeD9Y8rQ" target="_qIoJEco6EeSH_OLeD9Y8rQ" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
                 <children xmi:type="notation:DecorationNode" xmi:id="_qI6c8Mo6EeSH_OLeD9Y8rQ" type="ActivityEdgeLabelCompartment">
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_qI6c8so6EeSH_OLeD9Y8rQ" type="Stereotype"/>
@@ -5689,6 +5663,15 @@
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tlWSJMo7EeSH_OLeD9Y8rQ" points="[1497, 336, 5124, -15525]$[1497, 15743, 5124, -118]$[-3318, 15743, 309, -118]"/>
                 <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_tlcYxMo7EeSH_OLeD9Y8rQ" id="(0.15051339844728273,0.6456361724500526)"/>
               </edges>
+              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_A_GwIOzuEeSoUZdeDt8P-g" element="_A-0cQOzuEeSoUZdeDt8P-g" source="_XEph0Mo6EeSH_OLeD9Y8rQ" target="_mh4r4co6EeSH_OLeD9Y8rQ" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+                <children xmi:type="notation:DecorationNode" xmi:id="_A_M2wOzuEeSoUZdeDt8P-g" type="ActivityEdgeLabelCompartment">
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_A_M2wuzuEeSoUZdeDt8P-g" type="Stereotype"/>
+                  <children xmi:type="notation:BasicDecorationNode" xmi:id="_A_M2w-zuEeSoUZdeDt8P-g" type="ActivityEdgeLabel"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A_M2wezuEeSoUZdeDt8P-g" y="-186"/>
+                </children>
+                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_A_GwIezuEeSoUZdeDt8P-g" points="[-318, -1, 173, -4013]$[-318, 1523, 173, -2489]$[-433, 1523, 58, -2489]$[-433, 3537, 58, -475]"/>
+                <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_A_ZEAOzuEeSoUZdeDt8P-g" id="(0.6414565826330533,1.0)"/>
+              </edges>
             </contents>
           </eAnnotations>
           <node xmi:type="uml:InitialNode" xmi:id="_K5Y4YMmWEeSFHrJLdsJw_g" outgoing="_fHMOcMmWEeSFHrJLdsJw_g"/>
@@ -5701,9 +5684,8 @@
           <node xmi:type="uml:OpaqueAction" xmi:id="_nv_lYMmYEeSVDMMOvbSvdw" name="Update the creation page with the retrived tuple that are not already linked to a satiisfying conditon and with the satisfying operation allowed" outgoing="_XEvocMo6EeSH_OLeD9Y8rQ" incoming="_EFESYMo6EeSH_OLeD9Y8rQ" inPartition="_AawWUMmWEeSFHrJLdsJw_g"/>
           <node xmi:type="uml:DecisionNode" xmi:id="_lpVlcMmZEeSVDMMOvbSvdw" name="Are all the tuple already liked to a satisfying condition?" outgoing="_-Zw8cMo5EeSH_OLeD9Y8rQ _EFESYMo6EeSH_OLeD9Y8rQ" incoming="_lqGacMmZEeSVDMMOvbSvdw" inPartition="_AawWUMmWEeSFHrJLdsJw_g"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_-YtzkMo5EeSH_OLeD9Y8rQ" name="Show warning message" outgoing="_tlWSIMo7EeSH_OLeD9Y8rQ" incoming="_-Zw8cMo5EeSH_OLeD9Y8rQ" inPartition="_AawWUMmWEeSFHrJLdsJw_g"/>
-          <node xmi:type="uml:OpaqueAction" xmi:id="_XEjbMMo6EeSH_OLeD9Y8rQ" name="Select a set of tuple" outgoing="_giD3cMo6EeSH_OLeD9Y8rQ" incoming="_XEvocMo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g"/>
-          <node xmi:type="uml:OpaqueAction" xmi:id="_gh3qMMo6EeSH_OLeD9Y8rQ" name="Specify an hypotesis value" outgoing="_mh-ygMo6EeSH_OLeD9Y8rQ" incoming="_giD3cMo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g"/>
-          <node xmi:type="uml:OpaqueAction" xmi:id="_mh4r4Mo6EeSH_OLeD9Y8rQ" name="Select a satisfying operation" outgoing="_qI0WUMo6EeSH_OLeD9Y8rQ" incoming="_mh-ygMo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g"/>
+          <node xmi:type="uml:OpaqueAction" xmi:id="_XEjbMMo6EeSH_OLeD9Y8rQ" name="Select a set of tuple" outgoing="_A-0cQOzuEeSoUZdeDt8P-g" incoming="_XEvocMo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g"/>
+          <node xmi:type="uml:OpaqueAction" xmi:id="_mh4r4Mo6EeSH_OLeD9Y8rQ" name="Select a satisfying operation" outgoing="_qI0WUMo6EeSH_OLeD9Y8rQ" incoming="_A-0cQOzuEeSoUZdeDt8P-g" inPartition="_-7JkwMmVEeSFHrJLdsJw_g"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_qIoJEMo6EeSH_OLeD9Y8rQ" name="Select a satisfyingn value" outgoing="_ycljUMo6EeSH_OLeD9Y8rQ" incoming="_qI0WUMo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g"/>
           <node xmi:type="uml:OpaqueAction" xmi:id="_ycZWEMo6EeSH_OLeD9Y8rQ" name="Submit" outgoing="_3Iq38Mo6EeSH_OLeD9Y8rQ" incoming="_ycljUMo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g"/>
           <node xmi:type="uml:DecisionNode" xmi:id="_3IeqsMo6EeSH_OLeD9Y8rQ" name="check data" outgoing="_7YMMYMo6EeSH_OLeD9Y8rQ _LjdhIMo7EeSH_OLeD9Y8rQ" incoming="_3Iq38Mo6EeSH_OLeD9Y8rQ" inPartition="_AawWUMmWEeSFHrJLdsJw_g"/>
@@ -5781,20 +5763,6 @@
             </guard>
             <weight xmi:type="uml:LiteralInteger" xmi:id="_XEvocso6EeSH_OLeD9Y8rQ" value="1"/>
           </edge>
-          <edge xmi:type="uml:ControlFlow" xmi:id="_giD3cMo6EeSH_OLeD9Y8rQ" source="_XEjbMMo6EeSH_OLeD9Y8rQ" target="_gh3qMMo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g">
-            <guard xmi:type="uml:OpaqueExpression" xmi:id="_giD3cco6EeSH_OLeD9Y8rQ">
-              <language></language>
-              <body></body>
-            </guard>
-            <weight xmi:type="uml:LiteralInteger" xmi:id="_giD3cso6EeSH_OLeD9Y8rQ" value="1"/>
-          </edge>
-          <edge xmi:type="uml:ControlFlow" xmi:id="_mh-ygMo6EeSH_OLeD9Y8rQ" source="_gh3qMMo6EeSH_OLeD9Y8rQ" target="_mh4r4Mo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g">
-            <guard xmi:type="uml:OpaqueExpression" xmi:id="_mh-ygco6EeSH_OLeD9Y8rQ">
-              <language></language>
-              <body></body>
-            </guard>
-            <weight xmi:type="uml:LiteralInteger" xmi:id="_mh-ygso6EeSH_OLeD9Y8rQ" value="1"/>
-          </edge>
           <edge xmi:type="uml:ControlFlow" xmi:id="_qI0WUMo6EeSH_OLeD9Y8rQ" source="_mh4r4Mo6EeSH_OLeD9Y8rQ" target="_qIoJEMo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g">
             <guard xmi:type="uml:OpaqueExpression" xmi:id="_qI0WUco6EeSH_OLeD9Y8rQ">
               <language></language>
@@ -5858,7 +5826,14 @@
             </guard>
             <weight xmi:type="uml:LiteralInteger" xmi:id="_tlWSIso7EeSH_OLeD9Y8rQ" value="1"/>
           </edge>
-          <group xmi:type="uml:ActivityPartition" xmi:id="_-7JkwMmVEeSFHrJLdsJw_g" name="User" node="_fG56kMmWEeSFHrJLdsJw_g _18H-0MmWEeSFHrJLdsJw_g _IcSuYMmXEeSFHrJLdsJw_g _XEjbMMo6EeSH_OLeD9Y8rQ _gh3qMMo6EeSH_OLeD9Y8rQ _mh4r4Mo6EeSH_OLeD9Y8rQ _qIoJEMo6EeSH_OLeD9Y8rQ _ycZWEMo6EeSH_OLeD9Y8rQ" edge="_nAshUMmWEeSFHrJLdsJw_g _IcY1AMmXEeSFHrJLdsJw_g _h1yGMsmXEeSFHrJLdsJw_g _giD3cMo6EeSH_OLeD9Y8rQ _mh-ygMo6EeSH_OLeD9Y8rQ _qI0WUMo6EeSH_OLeD9Y8rQ _ycljUMo6EeSH_OLeD9Y8rQ _3Iq38Mo6EeSH_OLeD9Y8rQ"/>
+          <edge xmi:type="uml:ControlFlow" xmi:id="_A-0cQOzuEeSoUZdeDt8P-g" source="_XEjbMMo6EeSH_OLeD9Y8rQ" target="_mh4r4Mo6EeSH_OLeD9Y8rQ" inPartition="_-7JkwMmVEeSFHrJLdsJw_g">
+            <guard xmi:type="uml:OpaqueExpression" xmi:id="_A-6i4OzuEeSoUZdeDt8P-g">
+              <language></language>
+              <body></body>
+            </guard>
+            <weight xmi:type="uml:LiteralInteger" xmi:id="_A-6i4ezuEeSoUZdeDt8P-g" value="1"/>
+          </edge>
+          <group xmi:type="uml:ActivityPartition" xmi:id="_-7JkwMmVEeSFHrJLdsJw_g" name="User" node="_fG56kMmWEeSFHrJLdsJw_g _18H-0MmWEeSFHrJLdsJw_g _IcSuYMmXEeSFHrJLdsJw_g _XEjbMMo6EeSH_OLeD9Y8rQ _mh4r4Mo6EeSH_OLeD9Y8rQ _qIoJEMo6EeSH_OLeD9Y8rQ _ycZWEMo6EeSH_OLeD9Y8rQ" edge="_nAshUMmWEeSFHrJLdsJw_g _IcY1AMmXEeSFHrJLdsJw_g _h1yGMsmXEeSFHrJLdsJw_g _qI0WUMo6EeSH_OLeD9Y8rQ _ycljUMo6EeSH_OLeD9Y8rQ _3Iq38Mo6EeSH_OLeD9Y8rQ _A-0cQOzuEeSoUZdeDt8P-g"/>
           <group xmi:type="uml:ActivityPartition" xmi:id="_AawWUMmWEeSFHrJLdsJw_g" name="System" node="_nAH5kMmWEeSFHrJLdsJw_g _h1fyUMmXEeSFHrJLdsJw_g _nGP6QMmXEeSFHrJLdsJw_g _nv_lYMmYEeSVDMMOvbSvdw _lpVlcMmZEeSVDMMOvbSvdw _-YtzkMo5EeSH_OLeD9Y8rQ _3IeqsMo6EeSH_OLeD9Y8rQ _7YGFwMo6EeSH_OLeD9Y8rQ _LjLNQMo7EeSH_OLeD9Y8rQ _Qdw38Mo7EeSH_OLeD9Y8rQ" edge="_18UMEMmWEeSFHrJLdsJw_g _nGcHgMmXEeSFHrJLdsJw_g _lqGacMmZEeSVDMMOvbSvdw _-Zw8cMo5EeSH_OLeD9Y8rQ _EFESYMo6EeSH_OLeD9Y8rQ _XEvocMo6EeSH_OLeD9Y8rQ _7YMMYMo6EeSH_OLeD9Y8rQ _9UoD58o6EeSH_OLeD9Y8rQ _LjdhIMo7EeSH_OLeD9Y8rQ _Qd2-kMo7EeSH_OLeD9Y8rQ _ciNhQMo7EeSH_OLeD9Y8rQ _tlWSIMo7EeSH_OLeD9Y8rQ"/>
         </ownedBehavior>
       </packagedElement>
