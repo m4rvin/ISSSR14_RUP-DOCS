@@ -4,7 +4,7 @@
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Piattaforma Rational Modeling (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Default="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xsi:schemaLocation="http:///schemas/Default/_fNm3AAqoEd6-N_NOT9vsCA/2 pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?">
   <uml:Model xmi:id="_smyYcbENEeSD2c69K_B9WQ" name="Modello caso di utilizzo">
-    <eAnnotations xmi:id="_smyYcrENEeSD2c69K_B9WQ" source="uml2.diagrams" references="_smyYhLENEeSD2c69K_B9WQ">
+    <eAnnotations xmi:id="_smyYcrENEeSD2c69K_B9WQ" source="uml2.diagrams" references="_smyYc7ENEeSD2c69K_B9WQ">
       <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_smyYc7ENEeSD2c69K_B9WQ" type="Freeform" name="${project} Use Case Overview">
         <children xmi:type="notation:Shape" xmi:id="_smyYdLENEeSD2c69K_B9WQ" type="Text" fontHeight="14" description="${project} Use Case Overview">
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyYdbENEeSD2c69K_B9WQ" type="DiagramName"/>
@@ -64,29 +64,6 @@
           <children xmi:type="notation:BasicDecorationNode" xmi:id="_zMFD9upiEeSIy8XxWlFWZA" type="Parent"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_zMFD9-piEeSIy8XxWlFWZA" type="PackageContents" collapsed="true" canonical="false"/>
           <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zMFD8epiEeSIy8XxWlFWZA" x="11616" y="7260"/>
-        </children>
-      </contents>
-      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_smyYhLENEeSD2c69K_B9WQ" type="Class" name="Instructions">
-        <children xmi:type="notation:Shape" xmi:id="_smyYhbENEeSD2c69K_B9WQ" type="Note" fontName="Courier New" description="The template is set up to help you create content for a use case model, where the structure of the model reflects the guidance provided in the Rational Software Architect Model Structure Guidelines found at &#xD;&#xA;&#xD;&#xA;&#x9;http://www.ibm.com/developerworks/rational/products/rsm/...&#xD;&#xA;&#xD;&#xA;A part of that guidance is to organize the use case model around internally cohesive, loosely coupled functional groupings. Accordingly, within the template you will find:&#xD;&#xA;&#xD;&#xA;•&#x9;A package entitled “Use-Case Building Blocks”.  This package contains chunks of model content that you can use to build the use case model more quickly.  The general techniques for using the building blocks are described in this diagram:&#xD;&#xA;&#xD;&#xA;&#x9;Use-Case Building Block Instructions (double-click the diagram link below)&#xD;&#xA;  &#xD;&#xA;•&#x9;A package entitled “Versatile Actors”.  Generally, Actors should be stored within the same &quot;functional area&quot; package as the use case(s) it performs, but Actors that perform multiple use cases that span functional areas should be stored in the &quot;Versatile Actors&quot; package.&#xD;&#xA;&#xD;&#xA;•&#x9;A «perspective» package named Overviews, in which to keep diagrams depicting cross-cutting views of the model.   &#xD;&#xA;&#xD;&#xA;In brief, to create your use case model using the building blocks you will iteratively perform these activities:&#xD;&#xA;•&#x9;Create &quot;functional area&quot; Packages using the provided functional area package building block&#xD;&#xA;•&#x9;Populate each such package with the Use Cases for that functional grouping, again using the provided Use Case building block.  &#xD;&#xA;&#xD;&#xA;Then you perform the various other activities of Use Case modeling such as composing the Use Cases into Use Case Diagrams, adding Actors, drawing extend / include relationships among the Use Cases, drawing associations from the use cases to the Actors that participate in them, writing descriptions for the Use Cases and Actors, and (where it adds value) composing a high-level Activity Diagram per Use Case.&#xD;&#xA;&#xD;&#xA; &#xD;&#xA;WHEN YOU NO LONGER NEED THESE INSTRUCTIONS:&#xD;&#xA;1. Delete this diagram (&quot;Instructions&quot;) from the model&#xD;&#xA;2. Make the &quot;Use Case Model Overview&quot; diagram the default diagram for the model (right click on it and select &quot;Make Default Diagram&quot;).&#xD;&#xA;" fillColor="13369343" lineColor="51455">
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyYhrENEeSD2c69K_B9WQ" type="DiagramName"/>
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyYh7ENEeSD2c69K_B9WQ" type="Description"/>
-          <styles xmi:type="notation:TextStyle" xmi:id="_smyYiLENEeSD2c69K_B9WQ"/>
-          <styles xmi:type="notation:LineTypeStyle" xmi:id="_smyYibENEeSD2c69K_B9WQ"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_smyYirENEeSD2c69K_B9WQ" x="500" y="2519" width="19101" height="18260"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_smyYi7ENEeSD2c69K_B9WQ" type="shadowRectangle" fontHeight="24" description="Use Case Modeling Template" fillColor="13369343" lineColor="51455">
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyYjLENEeSD2c69K_B9WQ" type="DiagramName"/>
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyYjbENEeSD2c69K_B9WQ" type="Description"/>
-          <styles xmi:type="notation:TextStyle" xmi:id="_smyYjrENEeSD2c69K_B9WQ"/>
-          <styles xmi:type="notation:LineTypeStyle" xmi:id="_smyYj7ENEeSD2c69K_B9WQ"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_smyYkLENEeSD2c69K_B9WQ" x="500" y="317" width="19181" height="1905"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_smyYkbENEeSD2c69K_B9WQ" element="_smyY7bENEeSD2c69K_B9WQ">
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyYkrENEeSD2c69K_B9WQ" type="DiagramName" element="_smyY7bENEeSD2c69K_B9WQ"/>
-          <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyYk7ENEeSD2c69K_B9WQ" type="Description" element="_smyY7bENEeSD2c69K_B9WQ"/>
-          <styles xmi:type="notation:TextStyle" xmi:id="_smyYlLENEeSD2c69K_B9WQ"/>
-          <styles xmi:type="notation:LineTypeStyle" xmi:id="_smyYlbENEeSD2c69K_B9WQ"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_smyYlrENEeSD2c69K_B9WQ" x="636" y="20988" height="845"/>
         </children>
       </contents>
     </eAnnotations>
@@ -2665,13 +2642,6 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyZR7ENEeSD2c69K_B9WQ" type="Description"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_smyZSLENEeSD2c69K_B9WQ" x="1590" y="1272"/>
           </children>
-          <children xmi:type="notation:Shape" xmi:id="_smyZSbENEeSD2c69K_B9WQ" type="Note" fontName="Courier New" description="TO ADD ADDITIONAL OVERVIEW DIAGRAMS&#xD;&#xA;&#xD;&#xA;1) In the Project Explorer, right-click over the Overviews package, and choose Add Diagram...&#xD;&#xA;&#xD;&#xA;2) Return to this Overviews diagram and drag the new diagram from the Project Explorer onto this diagram.&#xD;&#xA;&#xD;&#xA;(Delete this instructional note once you no longer need it.)" fillColor="13369343" lineColor="51455">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyZSrENEeSD2c69K_B9WQ" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyZS7ENEeSD2c69K_B9WQ" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_smyZTLENEeSD2c69K_B9WQ"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_smyZTbENEeSD2c69K_B9WQ"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_smyZTrENEeSD2c69K_B9WQ" x="4452" y="8586" width="10158" height="5363"/>
-          </children>
           <children xmi:type="notation:Shape" xmi:id="_smyZT7ENEeSD2c69K_B9WQ" element="_smyZW7ENEeSD2c69K_B9WQ" fontName="Courier New" description="Example: All actors in the use-case model, depicted as an inheritance tree">
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyZULENEeSD2c69K_B9WQ" type="DiagramName" element="_smyZW7ENEeSD2c69K_B9WQ"/>
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyZUbENEeSD2c69K_B9WQ" type="Description" element="_smyZW7ENEeSD2c69K_B9WQ"/>
@@ -2741,7 +2711,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_smyZZbENEeSD2c69K_B9WQ" type="Description"/>
             <styles xmi:type="notation:TextStyle" xmi:id="_smyZZrENEeSD2c69K_B9WQ"/>
             <styles xmi:type="notation:LineTypeStyle" xmi:id="_smyZZ7ENEeSD2c69K_B9WQ"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_smyZaLENEeSD2c69K_B9WQ" x="3492" y="1587" width="11747" height="3714"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_smyZaLENEeSD2c69K_B9WQ" x="-396" y="-1848" width="11747" height="3714"/>
           </children>
           <children xmi:type="notation:Shape" xmi:id="_A7YskOpjEeSIy8XxWlFWZA" type="rectangle" fontHeight="8" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_A7ezMOpjEeSIy8XxWlFWZA" type="DiagramName">
@@ -2753,7 +2723,7 @@
             <styles xmi:type="notation:TextStyle" xmi:id="_A7YskepjEeSIy8XxWlFWZA"/>
             <styles xmi:type="notation:LineTypeStyle" xmi:id="_A7YskupjEeSIy8XxWlFWZA"/>
             <element xsi:nil="true"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A7Ysk-pjEeSIy8XxWlFWZA" x="3677" y="5000" width="18757" height="6217"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_A7Ysk-pjEeSIy8XxWlFWZA" x="3677" y="5000" width="20873" height="6217"/>
           </children>
           <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_EHMhQOpjEeSIy8XxWlFWZA" element="_5AxaUMfPEeSEVcugHujEwA" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_EHMhQupjEeSIy8XxWlFWZA" type="ImageCompartment">
