@@ -6711,13 +6711,6 @@
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ETTOMmFEeSMaY3L4pMYmA" type="Description"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2ETTOcmFEeSMaY3L4pMYmA" x="873" y="502"/>
             </children>
-            <children xmi:type="notation:Shape" xmi:id="_2ETTOsmFEeSMaY3L4pMYmA" type="Note" fontName="Courier New" description="TODO:&#xD;&#xA;1) If the use case has additional named alternate or exceptional flows, add additional Interactions and Sequence diagrams to the Collaboration to depict those flows.&#xD;&#xA;2) Drag the additional diagram(s) onto this diagram&#xD;&#xA;3) Delete this instructional note once you no longer need it" fillColor="13369343" lineColor="51455">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ETTO8mFEeSMaY3L4pMYmA" type="DiagramName"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_2ETTPMmFEeSMaY3L4pMYmA" type="Description"/>
-              <styles xmi:type="notation:TextStyle" xmi:id="_2ETTPcmFEeSMaY3L4pMYmA"/>
-              <styles xmi:type="notation:LineTypeStyle" xmi:id="_2ETTPsmFEeSMaY3L4pMYmA"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2ETTP8mFEeSMaY3L4pMYmA" x="930" y="6360" width="13043" height="3300"/>
-            </children>
           </contents>
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTQMmFEeSMaY3L4pMYmA" type="Class" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition Participants">
             <children xmi:type="notation:Shape" xmi:id="_2ETTQcmFEeSMaY3L4pMYmA" type="Text" fontHeight="14" description="Create metric satisfying condition Participants">
@@ -7590,13 +7583,6 @@
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_tDrv98z2EeST1utdWN6OXw" type="DiagramName"/>
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_tDrv-Mz2EeST1utdWN6OXw" type="Description"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tDrv-cz2EeST1utdWN6OXw" x="873" y="502"/>
-            </children>
-            <children xmi:type="notation:Shape" xmi:id="_tDrv-sz2EeST1utdWN6OXw" type="Note" fontName="Courier New" description="TODO:&#xD;&#xA;1) If the use case has additional named alternate or exceptional flows, add additional Interactions and Sequence diagrams to the Collaboration to depict those flows.&#xD;&#xA;2) Drag the additional diagram(s) onto this diagram&#xD;&#xA;3) Delete this instructional note once you no longer need it" fillColor="13369343" lineColor="51455">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_tDrv-8z2EeST1utdWN6OXw" type="DiagramName"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_tDrv_Mz2EeST1utdWN6OXw" type="Description"/>
-              <styles xmi:type="notation:TextStyle" xmi:id="_tDrv_cz2EeST1utdWN6OXw"/>
-              <styles xmi:type="notation:LineTypeStyle" xmi:id="_tDrv_sz2EeST1utdWN6OXw"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tDrv_8z2EeST1utdWN6OXw" x="930" y="6360" width="13043" height="3300"/>
             </children>
           </contents>
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_tDrwAMz2EeST1utdWN6OXw" type="Class" name="&lt;&lt;Use Case Realization>> Metric satisfying condition editing Participants">
