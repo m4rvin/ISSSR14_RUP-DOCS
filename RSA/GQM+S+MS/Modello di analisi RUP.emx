@@ -555,7 +555,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_BZtvlrFFEeSU84TOMDtBiw" type="Parent"/>
             <children xmi:type="notation:ListCompartment" xmi:id="_BZtvl7FFEeSU84TOMDtBiw" visible="false" type="Extension_Points"/>
             <element xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_62AP8LENEeSD2c69K_B9WQ?Modello%20caso%20di%20utilizzo/Measurement%20scale%20creation/Create%20measurement%20scale?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BZtvkbFFEeSU84TOMDtBiw" x="1188" y="8712"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BZtvkbFFEeSU84TOMDtBiw" x="792" y="2772"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_7rY74MZuEeSU8ZFtl29MrA" element="_pelMILFEEeSU84TOMDtBiw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_7rfCgMZuEeSU8ZFtl29MrA" type="ImageCompartment">
@@ -566,7 +566,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_7rfChMZuEeSU8ZFtl29MrA" type="Parent"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_7rfChcZuEeSU8ZFtl29MrA" visible="false" type="AttributeCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_7rfChsZuEeSU8ZFtl29MrA" type="CollaborationCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7rY74cZuEeSU8ZFtl29MrA" x="12408" y="6864"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7rY74cZuEeSU8ZFtl29MrA" x="12276" y="2112"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_aOlQ8Mf6EeSllIUGt43VLQ" element="_k4sVEMZLEeSA8_OL87N-wA" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_aOua4Mf6EeSllIUGt43VLQ" type="ImageCompartment">
@@ -599,7 +599,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_zK4XRMysEeSaUdjPBpyLRg" type="Parent"/>
             <children xmi:type="notation:ListCompartment" xmi:id="_zK4XRcysEeSaUdjPBpyLRg" visible="false" type="Extension_Points"/>
             <element xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_j-sTMMynEeScV5NuUoxTWg?Modello%20caso%20di%20utilizzo/Measurement%20scale%20creation/Measurement%20scale%20editing?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zKyQocysEeSaUdjPBpyLRg" x="1188" y="2904"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zKyQocysEeSaUdjPBpyLRg" x="1188" y="8844"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_QfxQ0MyxEeSaUdjPBpyLRg" element="_wFqSwMysEeSaUdjPBpyLRg" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_QfxQ0syxEeSaUdjPBpyLRg" type="ImageCompartment">
@@ -610,7 +610,29 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_QfxQ1syxEeSaUdjPBpyLRg" type="Parent"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_QfxQ18yxEeSaUdjPBpyLRg" visible="false" type="AttributeCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_QfxQ2MyxEeSaUdjPBpyLRg" type="CollaborationCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QfxQ0cyxEeSaUdjPBpyLRg" x="12408" y="1716" width="23948"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QfxQ0cyxEeSaUdjPBpyLRg" x="12276" y="7656" width="23948"/>
+          </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_pw88EPMPEeShgeF6uOXUvw" element="_LYTfYMy_EeSQo_oTUB0iSA" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_pw88EvMPEeShgeF6uOXUvw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_pw88E_MPEeShgeF6uOXUvw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pw88FPMPEeShgeF6uOXUvw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pw88FfMPEeShgeF6uOXUvw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pw88FvMPEeShgeF6uOXUvw" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pw88F_MPEeShgeF6uOXUvw" visible="false" type="AttributeCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pw88GPMPEeShgeF6uOXUvw" type="CollaborationCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pw88EfMPEeShgeF6uOXUvw" x="12144" y="19272"/>
+          </children>
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_uzFZMPMPEeShgeF6uOXUvw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_uzFZMvMPEeShgeF6uOXUvw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_uzFZM_MPEeShgeF6uOXUvw" width="2216" height="1322"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_uzFZNPMPEeShgeF6uOXUvw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_uzFZNfMPEeShgeF6uOXUvw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_uzFZNvMPEeShgeF6uOXUvw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_uzFZN_MPEeShgeF6uOXUvw" visible="false" type="Extension_Points"/>
+            <element xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_vpvHkMyzEeSQo_oTUB0iSA?Modello%20caso%20di%20utilizzo/Measurement%20scale%20creation/Range%20of%20values%20editing?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uzFZMfMPEeShgeF6uOXUvw" x="1716" y="20724"/>
           </children>
           <edges xmi:type="umlnotation:UMLConnector" xmi:id="_7rfCh8ZuEeSU8ZFtl29MrA" element="_Fq87QLFFEeSU84TOMDtBiw" source="_7rY74MZuEeSU8ZFtl29MrA" target="_BZtvkLFFEeSU84TOMDtBiw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
             <children xmi:type="notation:DecorationNode" xmi:id="_7rlJIMZuEeSU8ZFtl29MrA" type="NameLabel">
@@ -635,6 +657,14 @@
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_r9P5o8yxEeSaUdjPBpyLRg" y="-186"/>
             </children>
             <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_r9P5ocyxEeSaUdjPBpyLRg" points="[-452, 6, 337, 26]$[-778, 5, 11, 25]"/>
+          </edges>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_vqx2MPMPEeShgeF6uOXUvw" element="_vqrIgPMPEeShgeF6uOXUvw" source="_pw88EPMPEeShgeF6uOXUvw" target="_uzFZMPMPEeShgeF6uOXUvw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_vqx2MvMPEeShgeF6uOXUvw" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_vqx2NPMPEeShgeF6uOXUvw" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_vq5K8PMPEeShgeF6uOXUvw" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vqx2M_MPEeShgeF6uOXUvw" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_vqx2MfMPEeShgeF6uOXUvw" points="[-313, -9, 239, -1]$[-514, -9, 38, -1]"/>
           </edges>
         </contents>
       </eAnnotations>
@@ -3607,7 +3637,7 @@
       <packagedElement xmi:type="uml:Realization" xmi:id="_r9JzAMyxEeSaUdjPBpyLRg" client="_wFqSwMysEeSaUdjPBpyLRg">
         <supplier xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_j-sTMMynEeScV5NuUoxTWg?Modello%20caso%20di%20utilizzo/Measurement%20scale%20creation/Measurement%20scale%20editing?"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Collaboration" xmi:id="_LYTfYMy_EeSQo_oTUB0iSA" name="&lt;&lt;Use Case Realization>> Range of values editing">
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_LYTfYMy_EeSQo_oTUB0iSA" name="&lt;&lt;Use Case Realization>> Range of values editing" clientDependency="_vqrIgPMPEeShgeF6uOXUvw">
         <eAnnotations xmi:id="_LYTfYcy_EeSQo_oTUB0iSA" source="http://www.eclipse.org/uml2/2.0.0/UML"/>
         <eAnnotations xmi:id="_LYTfYsy_EeSQo_oTUB0iSA" source="uml2.diagrams" references="_LYTfY8y_EeSQo_oTUB0iSA">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_LYTfY8y_EeSQo_oTUB0iSA" type="Class" name="&lt;&lt;Use Case Realization>> Range of values editing Realization Overview">
@@ -4225,6 +4255,9 @@
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="__hZ0gs1bEeSgea4ur67y-g" name="Eventodioperazionediricezione26" operation="__hZ0gM1bEeSgea4ur67y-g"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_Ccfsoc1cEeSgea4ur67y-g" name="Eventodioperazionediinvio28" operation="_CcfsoM1cEeSgea4ur67y-g"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_Ccfsos1cEeSgea4ur67y-g" name="Eventodioperazionediricezione27" operation="_CcfsoM1cEeSgea4ur67y-g"/>
+      <packagedElement xmi:type="uml:Realization" xmi:id="_vqrIgPMPEeShgeF6uOXUvw" client="_LYTfYMy_EeSQo_oTUB0iSA">
+        <supplier xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_vpvHkMyzEeSQo_oTUB0iSA?Modello%20caso%20di%20utilizzo/Measurement%20scale%20creation/Range%20of%20values%20editing?"/>
+      </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_gieJUMfYEeSEVcugHujEwA" name="Complex metric creation">
       <eAnnotations xmi:id="_gieJUcfYEeSEVcugHujEwA" source="uml2.diagrams" references="_gieJUsfYEeSEVcugHujEwA">
@@ -5474,13 +5507,36 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_u0Ds5cgKEeSOCYGgp5S2Ug" type="Description"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u0Ds5sgKEeSOCYGgp5S2Ug" x="476" y="661"/>
           </children>
-          <children xmi:type="notation:Shape" xmi:id="_u0Ds58gKEeSOCYGgp5S2Ug" type="Note" fontName="Courier New" description="TO ADD A USE-CASE REALIZATION FOR THIS FUNCTIONAL AREA:&#xD;&#xA;&#xD;&#xA;1) Using the Project Exporer, CTRL-Drag &quot;${use.case}&quot; from the &quot;Analysis Building Blocks&quot; package to the functional area package that contains this diagram.&#xD;&#xA;&#xD;&#xA;2) Right-click over the new realization, and use Find/Replace to change &quot;${use.case}&quot; to the name of the use-case being realized.&#xD;&#xA;&#xD;&#xA;3) Drag the new realization to this diagram.&#xD;&#xA;&#xD;&#xA;4) (Optional) Drag the corresponding Use Case from the Use-Case Model to this diagram and create a Realization dependency from the realization (Collaboration) to the use-case.  Alternatively, create a separate diagram for the purpose of establishing and depicting the realization dependency.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;(Delete this instructional note once you no longer need it.)" fillColor="13369343" lineColor="51455">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_u0Ds6MgKEeSOCYGgp5S2Ug" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_u0Ds6cgKEeSOCYGgp5S2Ug" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_u0Ds6sgKEeSOCYGgp5S2Ug"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_u0Ds68gKEeSOCYGgp5S2Ug"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_u0Ds7MgKEeSOCYGgp5S2Ug" x="2226" y="2862" width="13334" height="9490"/>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_6WQ98PMOEeShgeF6uOXUvw" element="_GlAnUMgQEeSCTLGVAU0d4Q" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_6WZg0PMOEeShgeF6uOXUvw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_6WZg0fMOEeShgeF6uOXUvw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_6WZg0vMOEeShgeF6uOXUvw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_6WZg0_MOEeShgeF6uOXUvw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_6WZg1PMOEeShgeF6uOXUvw" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_6WZg1fMOEeShgeF6uOXUvw" visible="false" type="AttributeCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_6WZg1vMOEeShgeF6uOXUvw" type="CollaborationCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6WQ98fMOEeShgeF6uOXUvw" x="9339" y="3518"/>
           </children>
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_9HYasPMOEeShgeF6uOXUvw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_9HYasvMOEeShgeF6uOXUvw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_9HYas_MOEeShgeF6uOXUvw" width="2216" height="1322"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_9HYatPMOEeShgeF6uOXUvw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_9HYatfMOEeShgeF6uOXUvw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_9HYatvMOEeShgeF6uOXUvw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_9Hg9kPMOEeShgeF6uOXUvw" visible="false" type="Extension_Points"/>
+            <element xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_1DLC4Mf8EeS6IKs9U5DFBA?Modello%20caso%20di%20utilizzo/Data%20collection/Add%20collected%20data%20to%20simple%20metric?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9HYasfMOEeShgeF6uOXUvw" x="1056" y="4752"/>
+          </children>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Jad88PMPEeShgeF6uOXUvw" element="_JaaSkPMPEeShgeF6uOXUvw" source="_6WQ98PMOEeShgeF6uOXUvw" target="_9HYasPMOEeShgeF6uOXUvw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Jad88vMPEeShgeF6uOXUvw" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_Jad89PMPEeShgeF6uOXUvw" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_Jad89fMPEeShgeF6uOXUvw" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Jad88_MPEeShgeF6uOXUvw" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Jad88fMPEeShgeF6uOXUvw" points="[-403, -24, 158, 10]$[-511, -31, 50, 3]"/>
+          </edges>
         </contents>
       </eAnnotations>
       <packagedElement xmi:type="uml:Package" xmi:id="_u0Ds7cgKEeSOCYGgp5S2Ug" name="Data collection Analysis Elements">
@@ -5653,7 +5709,7 @@
         <packagedElement xmi:type="uml:Usage" xmi:id="_AURzoMgREeSCTLGVAU0d4Q" supplier="_bzPR4cgLEeSCTLGVAU0d4Q" client="_bzPR4MgLEeSCTLGVAU0d4Q"/>
         <packagedElement xmi:type="uml:Usage" xmi:id="_B5gsEMgREeSCTLGVAU0d4Q" supplier="_C26k8MgQEeSCTLGVAU0d4Q" client="_bzPR4MgLEeSCTLGVAU0d4Q"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Collaboration" xmi:id="_GlAnUMgQEeSCTLGVAU0d4Q" name="&lt;&lt;Use Case Realization>> Add collected data to simple metric">
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_GlAnUMgQEeSCTLGVAU0d4Q" name="&lt;&lt;Use Case Realization>> Add collected data to simple metric" clientDependency="_JaaSkPMPEeShgeF6uOXUvw">
         <eAnnotations xmi:id="_GlAnUcgQEeSCTLGVAU0d4Q" source="http://www.eclipse.org/uml2/2.0.0/UML"/>
         <eAnnotations xmi:id="_GlAnUsgQEeSCTLGVAU0d4Q" source="uml2.diagrams" references="_GlAnU8gQEeSCTLGVAU0d4Q">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_GlAnU8gQEeSCTLGVAU0d4Q" type="Class" name="&lt;&lt;Use Case Realization>> Add collected data to simple metric Realization Overview">
@@ -6570,6 +6626,9 @@
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_4tXOssiWEeSelO8R5188zg" name="Eventodioperazionediricezione11" operation="_4tXOsMiWEeSelO8R5188zg"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_mbsrEd4UEeSlEJVSDySAUg" name="Eventodioperazionediinvio13" operation="_mbsrEN4UEeSlEJVSDySAUg"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_mbsrEt4UEeSlEJVSDySAUg" name="Eventodioperazionediricezione12" operation="_mbsrEN4UEeSlEJVSDySAUg"/>
+      <packagedElement xmi:type="uml:Realization" xmi:id="_JaaSkPMPEeShgeF6uOXUvw" client="_GlAnUMgQEeSCTLGVAU0d4Q">
+        <supplier xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_1DLC4Mf8EeS6IKs9U5DFBA?Modello%20caso%20di%20utilizzo/Data%20collection/Add%20collected%20data%20to%20simple%20metric?"/>
+      </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_PP-t4MmFEeSMaY3L4pMYmA" name="Interpretation model">
       <eAnnotations xmi:id="_PP-t4cmFEeSMaY3L4pMYmA" source="uml2.diagrams" references="_PP-t4smFEeSMaY3L4pMYmA">
@@ -6579,13 +6638,66 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_PP-t5cmFEeSMaY3L4pMYmA" type="Description"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PP-t5smFEeSMaY3L4pMYmA" x="476" y="661"/>
           </children>
-          <children xmi:type="notation:Shape" xmi:id="_PP-t58mFEeSMaY3L4pMYmA" type="Note" fontName="Courier New" description="TO ADD A USE-CASE REALIZATION FOR THIS FUNCTIONAL AREA:&#xD;&#xA;&#xD;&#xA;1) Using the Project Exporer, CTRL-Drag &quot;${use.case}&quot; from the &quot;Analysis Building Blocks&quot; package to the functional area package that contains this diagram.&#xD;&#xA;&#xD;&#xA;2) Right-click over the new realization, and use Find/Replace to change &quot;${use.case}&quot; to the name of the use-case being realized.&#xD;&#xA;&#xD;&#xA;3) Drag the new realization to this diagram.&#xD;&#xA;&#xD;&#xA;4) (Optional) Drag the corresponding Use Case from the Use-Case Model to this diagram and create a Realization dependency from the realization (Collaboration) to the use-case.  Alternatively, create a separate diagram for the purpose of establishing and depicting the realization dependency.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;(Delete this instructional note once you no longer need it.)" fillColor="13369343" lineColor="51455">
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_PP-t6MmFEeSMaY3L4pMYmA" type="DiagramName"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_PP-t6cmFEeSMaY3L4pMYmA" type="Description"/>
-            <styles xmi:type="notation:TextStyle" xmi:id="_PP-t6smFEeSMaY3L4pMYmA"/>
-            <styles xmi:type="notation:LineTypeStyle" xmi:id="_PP-t68mFEeSMaY3L4pMYmA"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PP-t7MmFEeSMaY3L4pMYmA" x="2226" y="2862" width="13334" height="9490"/>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_QGESQPMPEeShgeF6uOXUvw" element="_2ETTIMmFEeSMaY3L4pMYmA" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_QGESQvMPEeShgeF6uOXUvw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_QGESQ_MPEeShgeF6uOXUvw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_QGESRPMPEeShgeF6uOXUvw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_QGESRfMPEeShgeF6uOXUvw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_QGK_8PMPEeShgeF6uOXUvw" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_QGK_8fMPEeShgeF6uOXUvw" visible="false" type="AttributeCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_QGK_8vMPEeShgeF6uOXUvw" type="CollaborationCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QGESQfMPEeShgeF6uOXUvw" x="12911" y="3307"/>
           </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_Qh5SoPMPEeShgeF6uOXUvw" element="_tDrv4Mz2EeST1utdWN6OXw" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Qh5SovMPEeShgeF6uOXUvw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_Qh5So_MPEeShgeF6uOXUvw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Qh5SpPMPEeShgeF6uOXUvw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Qh5SpfMPEeShgeF6uOXUvw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Qh5SpvMPEeShgeF6uOXUvw" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_QiAAUPMPEeShgeF6uOXUvw" visible="false" type="AttributeCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_QiAAUfMPEeShgeF6uOXUvw" type="CollaborationCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Qh5SofMPEeShgeF6uOXUvw" x="12936" y="9504"/>
+          </children>
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_Sua0kPMPEeShgeF6uOXUvw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Sua0kvMPEeShgeF6uOXUvw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_Sua0k_MPEeShgeF6uOXUvw" width="2216" height="1322"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Sua0lPMPEeShgeF6uOXUvw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Sua0lfMPEeShgeF6uOXUvw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Sua0lvMPEeShgeF6uOXUvw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_Sua0l_MPEeShgeF6uOXUvw" visible="false" type="Extension_Points"/>
+            <element xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_J339kMmBEeSFePuFBMVWxw?Modello%20caso%20di%20utilizzo/Interpretation%20model/Create%20metric%20satisfying%20condition?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Sua0kfMPEeShgeF6uOXUvw" x="2244" y="4356"/>
+          </children>
+          <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_TGVlUPMPEeShgeF6uOXUvw" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_TGVlUvMPEeShgeF6uOXUvw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_TGVlU_MPEeShgeF6uOXUvw" width="2216" height="1322"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TGVlVPMPEeShgeF6uOXUvw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TGVlVfMPEeShgeF6uOXUvw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_TGVlVvMPEeShgeF6uOXUvw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_TGVlV_MPEeShgeF6uOXUvw" visible="false" type="Extension_Points"/>
+            <element xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_GZkJIMzuEeSlrYursYfOfA?Modello%20caso%20di%20utilizzo/Interpretation%20model/Metric%20satisfying%20condition%20editing?"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TGVlUfMPEeShgeF6uOXUvw" x="2640" y="10296"/>
+          </children>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_aHNAAPMPEeShgeF6uOXUvw" element="_aHD2EPMPEeShgeF6uOXUvw" source="_Qh5SoPMPEeShgeF6uOXUvw" target="_TGVlUPMPEeShgeF6uOXUvw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_aHNAAvMPEeShgeF6uOXUvw" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_aHNABPMPEeShgeF6uOXUvw" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_aHNABfMPEeShgeF6uOXUvw" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aHNAA_MPEeShgeF6uOXUvw" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aHNAAfMPEeShgeF6uOXUvw" points="[-528, -9, 213, 17]$[-762, -10, -21, 16]"/>
+          </edges>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_bMdX4fMPEeShgeF6uOXUvw" element="_bMdX4PMPEeShgeF6uOXUvw" source="_QGESQPMPEeShgeF6uOXUvw" target="_Sua0kPMPEeShgeF6uOXUvw" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_bMdX4_MPEeShgeF6uOXUvw" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bMdX5fMPEeShgeF6uOXUvw" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_bMdX5vMPEeShgeF6uOXUvw" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bMdX5PMPEeShgeF6uOXUvw" y="-186"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_bMdX4vMPEeShgeF6uOXUvw" points="[-535, -18, 188, 3]$[-725, -40, -2, -19]"/>
+          </edges>
         </contents>
       </eAnnotations>
       <packagedElement xmi:type="uml:Package" xmi:id="_PP-t7cmFEeSMaY3L4pMYmA" name="Interpretation model Analysis Elements">
@@ -6698,7 +6810,7 @@
         </packagedElement>
         <packagedElement xmi:type="uml:Usage" xmi:id="_bTf34M1bEeSgea4ur67y-g" supplier="_RBz34MmFEeSMaY3L4pMYmA" client="_RBz34cmFEeSMaY3L4pMYmA"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Collaboration" xmi:id="_2ETTIMmFEeSMaY3L4pMYmA" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition">
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_2ETTIMmFEeSMaY3L4pMYmA" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition" clientDependency="_bMdX4PMPEeShgeF6uOXUvw">
         <eAnnotations xmi:id="_2ETTIcmFEeSMaY3L4pMYmA" source="http://www.eclipse.org/uml2/2.0.0/UML"/>
         <eAnnotations xmi:id="_2ETTIsmFEeSMaY3L4pMYmA" source="uml2.diagrams" references="_2ETTI8mFEeSMaY3L4pMYmA">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_2ETTI8mFEeSMaY3L4pMYmA" type="Class" name="&lt;&lt;Use Case Realization>> Create metric satisfying condition Realization Overview">
@@ -7578,7 +7690,7 @@
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_OC0IcsmLEeSMaY3L4pMYmA" name="Eventodioperazionediricezione10" operation="_OC0IcMmLEeSMaY3L4pMYmA"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_QCmGgcmZEeSOqYzdN4Mitw" name="Eventodioperazionediinvio12" operation="_QCmGgMmZEeSOqYzdN4Mitw"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_QCmGgsmZEeSOqYzdN4Mitw" name="Eventodioperazionediricezione11" operation="_QCmGgMmZEeSOqYzdN4Mitw"/>
-      <packagedElement xmi:type="uml:Collaboration" xmi:id="_tDrv4Mz2EeST1utdWN6OXw" name="&lt;&lt;Use Case Realization>> Metric satisfying condition editing">
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_tDrv4Mz2EeST1utdWN6OXw" name="&lt;&lt;Use Case Realization>> Metric satisfying condition editing" clientDependency="_aHD2EPMPEeShgeF6uOXUvw">
         <eAnnotations xmi:id="_tDrv4cz2EeST1utdWN6OXw" source="http://www.eclipse.org/uml2/2.0.0/UML"/>
         <eAnnotations xmi:id="_tDrv4sz2EeST1utdWN6OXw" source="uml2.diagrams" references="_tDrv48z2EeST1utdWN6OXw">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_tDrv48z2EeST1utdWN6OXw" type="Class" name="&lt;&lt;Use Case Realization>> Metric satisfying condition editing Realization Overview">
@@ -8263,6 +8375,12 @@
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_R49Fgs1aEeSgea4ur67y-g" name="Eventodioperazionediricezione21" operation="_R49FgM1aEeSgea4ur67y-g"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_U462kc1aEeSgea4ur67y-g" name="Eventodioperazionediinvio23" operation="_U462kM1aEeSgea4ur67y-g"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_U462ks1aEeSgea4ur67y-g" name="Eventodioperazionediricezione22" operation="_U462kM1aEeSgea4ur67y-g"/>
+      <packagedElement xmi:type="uml:Realization" xmi:id="_aHD2EPMPEeShgeF6uOXUvw" client="_tDrv4Mz2EeST1utdWN6OXw">
+        <supplier xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_GZkJIMzuEeSlrYursYfOfA?Modello%20caso%20di%20utilizzo/Interpretation%20model/Metric%20satisfying%20condition%20editing?"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Realization" xmi:id="_bMdX4PMPEeShgeF6uOXUvw" client="_2ETTIMmFEeSMaY3L4pMYmA">
+        <supplier xmi:type="uml:UseCase" href="Modello%20caso%20di%20utilizzo.emx#_J339kMmBEeSFePuFBMVWxw?Modello%20caso%20di%20utilizzo/Interpretation%20model/Create%20metric%20satisfying%20condition?"/>
+      </packagedElement>
     </packagedElement>
     <profileApplication xmi:id="_coXbT7FCEeSU84TOMDtBiw">
       <eAnnotations xmi:id="_coXbULFCEeSU84TOMDtBiw" source="http://www.eclipse.org/uml2/2.0.0/UML">
