@@ -864,7 +864,7 @@
       </packagedElement>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_JcElEMQgEeSWDpV3P7PEJw" name="Create range of values">
         <ownedComment xmi:id="_JfnBQMQgEeSWDpV3P7PEJw" annotatedElement="_JcElEMQgEeSWDpV3P7PEJw">
-          <body>This use case represents the creation process for a new range of values by any user logged in the system. The user chooses the range of values parameters and submits the request to the system. The system validatea the fields and processes the request.</body>
+          <body>This use case represents the creation process for a new range of values by any user logged in the system. The user chooses the range of values parameters and submits the request to the system. The system validates the data and processes the request.</body>
         </ownedComment>
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_EMGDwMQhEeS0N6UAtSI0Jw" name="Create range of values Activity" partition="_cCi7gMQhEeS0N6UAtSI0Jw _drUQIMQhEeS0N6UAtSI0Jw">
           <eAnnotations xmi:id="_EQNHsMQhEeS0N6UAtSI0Jw" source="uml2.diagrams">
@@ -3279,7 +3279,7 @@
       </eAnnotations>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_5AxaUMfPEeSEVcugHujEwA" name="Create complex metric">
         <ownedComment xmi:id="_5BDuMMfPEeSEVcugHujEwA" annotatedElement="_5AxaUMfPEeSEVcugHujEwA">
-          <body>This use case represent the process of creating a new complex metric by any user logged in the system. The user can choose between creating a single metric or a combination of two or more metrics. User have to specify a metric's formula complying with a given syntax.</body>
+          <body>This use case represents the process of creating a new complex metric by any user logged in the system. The user can choose between creating a simple metric or a combination of one (or more) metric(s) using a set of operations. User has to specify a metric's formula complying with a given syntax.</body>
         </ownedComment>
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_DYh4UMfQEeSEVcugHujEwA" name="Create complex metric Activity" partition="_W49yEMfQEeSEVcugHujEwA _YJrMAMfQEeSEVcugHujEwA">
           <eAnnotations xmi:id="_DZStUMfQEeSEVcugHujEwA" source="uml2.diagrams">
@@ -4072,6 +4072,9 @@
         </ownedBehavior>
       </packagedElement>
       <packagedElement xmi:type="uml:UseCase" xmi:id="_Cu59wNeNEeSpJO8FQy2wdQ" name="Complex metric editing">
+        <ownedComment xmi:id="_L6hkQPMiEeSPlrvoGkcdIg" annotatedElement="_Cu59wNeNEeSpJO8FQy2wdQ">
+          <body>This use case describes the editing process of a complex metric. It enables the user to change the specifications for a complex metric after creating it</body>
+        </ownedComment>
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_Cu59wdeNEeSpJO8FQy2wdQ" name="Complex metric editing Activity">
           <eAnnotations xmi:id="_Cu59wteNEeSpJO8FQy2wdQ" source="uml2.diagrams">
             <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Cu59w9eNEeSpJO8FQy2wdQ" type="Activity" element="_Cu59wdeNEeSpJO8FQy2wdQ" name="Complex metric editing Activity Diagram" measurementUnit="Himetric">
@@ -4585,7 +4588,7 @@
       <packagedElement xmi:type="uml:UseCase" xmi:id="_1DLC4Mf8EeS6IKs9U5DFBA" name="Add collected data to simple metric">
         <eAnnotations xmi:id="_uVghIOpjEeSIy8XxWlFWZA" source="uml2.diagrams"/>
         <ownedComment xmi:id="_1DjdYMf8EeS6IKs9U5DFBA" annotatedElement="_1DLC4Mf8EeS6IKs9U5DFBA">
-          <body>This use case represents the process of adding collected data to defined metrics. It allows the user to choose the metric to which add collected data, retrieves the metric's collecting type and let the user insert data values. In case of multiple data collecting type it also allows the user to define an aggregator for the data values.</body>
+          <body>This use case represents the process of adding collected data to defined metrics linked and approved to questions. It allows the user to choose the metric to which add collected data and let the user insert data values. The system checks input validity and save the measurement.</body>
         </ownedComment>
         <ownedBehavior xmi:type="uml:Activity" xmi:id="_6jTDkMf8EeS6IKs9U5DFBA" name="Add collected data to simple metric Activity" partition="_PZ-iEMf-EeS6IKs9U5DFBA _RJ0IAMf-EeS6IKs9U5DFBA">
           <eAnnotations xmi:id="_6kWMcMf8EeS6IKs9U5DFBA" source="uml2.diagrams">
@@ -6275,4 +6278,5 @@
   <Default:Documentation xmi:id="_kGVMQMynEeScV5NuUoxTWg" base_Comment="_kGI_AMynEeScV5NuUoxTWg"/>
   <Default:Documentation xmi:id="_vr1ZUMyzEeSQo_oTUB0iSA" base_Comment="_vrvSsMyzEeSQo_oTUB0iSA"/>
   <Default:Documentation xmi:id="_GbATkMzuEeSlrYursYfOfA" base_Comment="_Ga6M8MzuEeSlrYursYfOfA"/>
+  <Default:Documentation xmi:id="_L6hkQfMiEeSPlrvoGkcdIg" base_Comment="_L6hkQPMiEeSPlrvoGkcdIg"/>
 </xmi:XMI>
