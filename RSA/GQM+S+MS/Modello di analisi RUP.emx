@@ -7734,13 +7734,6 @@
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_tDrwA8z2EeST1utdWN6OXw" type="Description"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tDrwBMz2EeST1utdWN6OXw" x="476" y="449"/>
             </children>
-            <children xmi:type="notation:Shape" xmi:id="_tDrwBcz2EeST1utdWN6OXw" type="Note" fontName="Courier New" description="TODO:&#xD;&#xA;1) drag the analysis classes that participate in this use-case realization onto this diagram&#xD;&#xA;2) create relationships among them as appropriate&#xD;&#xA;3) delete this instructional note once you no longer need it" fillColor="13369343" lineColor="51455">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_tDrwBsz2EeST1utdWN6OXw" type="DiagramName"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_tDrwB8z2EeST1utdWN6OXw" type="Description"/>
-              <styles xmi:type="notation:TextStyle" xmi:id="_tDrwCMz2EeST1utdWN6OXw"/>
-              <styles xmi:type="notation:LineTypeStyle" xmi:id="_tDrwCcz2EeST1utdWN6OXw"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tDrwCsz2EeST1utdWN6OXw" x="636" y="1908" width="10476" height="2887"/>
-            </children>
             <children xmi:type="umlnotation:UMLShape" xmi:id="__ncsYMz-EeSGspkaoW5WkA" element="_RBz34MmFEeSMaY3L4pMYmA" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
               <children xmi:type="notation:DecorationNode" xmi:id="__ncsYsz-EeSGspkaoW5WkA" type="ImageCompartment">
                 <layoutConstraint xmi:type="notation:Size" xmi:id="__ncsY8z-EeSGspkaoW5WkA" width="1320" height="1320"/>
