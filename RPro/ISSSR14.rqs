@@ -12,7 +12,7 @@ Prefix=
 NbrRequirements=9
 Directory=C:\Program Files\IBM\RationalSDLC\RequisitePro\Projects\ISSSR14\ISSSR14.rqs
 Key=1
-Revision=1.0006
+Revision=1.0010
 
 [Application]
 Data file version=1.0041
